@@ -534,9 +534,6 @@ The name of the hexagram, Chun, really connotes a blade of grass pushing
 against an obstacle as it sprouts out of the earth—hence the meaning,
 "difficulty at the beginning." The hexagram indicates the way in which
 heaven and earth bring forth individual beings. It is their first meeting,
-
-
-
 which is beset with difficulties. The lower trigram Chen is the Arousing; its
 motion is upward and its image is thunder. The upper trigram K'an stands
 for the Abysmal, the dangerous. Its motion is downward and its image is
