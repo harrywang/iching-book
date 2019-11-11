@@ -40,7 +40,7 @@
 39. Chien / Obstruction
 40. Hsieh / Deliverance
 41. Sun / Decrease
-42.1 / Increase
+42. I / Increase
 43. Kuai / Break-through (Resoluteness)
 44. Kou / Coming to Meet
 45. Ts'ui / Gathering Together [Massing]
@@ -312,14 +312,7 @@ in the coexistence of the spiritual world and the world of the senses.
 But strictly speaking there is no real dualism here, because there is a clearly
 defined hierarchic relationship between the two principles. In itself of course
 the Receptive is just as important as the Creative, but the attribute of
-devotion defines the place occupied by this primal power in relation to the
-
-
-3
-
-
-
-Creative. For the Receptive must be activated and led by the Creative; then it
+devotion defines the place occupied by this primal power in relation to the Creative. For the Receptive must be activated and led by the Creative; then it
 is productive of good. Only when it abandons this position and tries to stand
 as an equal side by side with the Creative, does it become evil. The result
 then is opposition to and struggle against the Creative, which is productive of
@@ -374,12 +367,7 @@ fate.
 
 Since there is something to be accomplished, we need friends and helpers in
 the hour of toil and effort, once the ideas to be realized are firmly set. The
-time of toil and effort is indicated by the west and south, for west and south
-
-4
-
-
-symbolize the place where the Receptive works for the Creative, as nature
+time of toil and effort is indicated by the west and south, for west and south symbolize the place where the Receptive works for the Creative, as nature
 does in summer and autumn. If in that situation one does not mobilize all
 one's powers, the work to be accomplished will not be done. Hence to find
 friends there means to find guidance. But in addition to the time of toil and
@@ -427,7 +415,7 @@ precautions can be taken by heeding the first signs of decay and checking them
 in time.
 
 
-°Six in the second place means:
+Six in the second place means:
 Straight, square, great.
 
 
@@ -525,7 +513,7 @@ retrogression,
 index
 
 
-3. Chun / Difficulty at the Beginning
+## 3. Chun / Difficulty at the Beginning
 
 above K'AN THE ABYSMAL, WATER
 below CHeN THE AROUSING, THUNDER
