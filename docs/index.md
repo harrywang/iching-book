@@ -16,73 +16,85 @@ Source: wikipedia.com
 
 Source: inthefamilyway.org
 
+## Chinese Pinyin Pronunciation
+
+![Chinese Pronunciation](./img/pinyin.jpg)
+
+Source: baidu.com
+
 ## [How To Consult The I Ching Oracle](https://www.youtube.com/watch?v=KgXaIYpAEHQ)
 
 # 64 Hexagram Details
-1. Ch'ien / The Creative
-2. K'un / The Receptive
-3. Chun / Difficulty at the Beginning
-4. Meng / Youthful Folly
-5. Hsii / Waiting (Nourishment)
-6. Sung / Conflict
-7. Shih / The Army
-8. Pi / Holding Together [union]
-9. Hsiao Ch'u / The Taming Power of the Small
-10. Lit / Treading [conduct]
-11. T'ai / Peace
-12. P'i / Standstill [Stagnation]
-13. T'ung Jen / Fellowship with Men
-14. Ta Yu / Possession in Great Measure
-15. Ch'ien / Modesty
-16. Yii / Enthusiasm
-17. Sui / Following
-18. Ku / Work on what has been spoiled [ Decay ]
-19. Lin / Approach
-20. Kuan/ Contemplation (View)
-21. Shih Ho / Biting Through
-22. Pi / Grace
-23. Po / Splitting Apart
-24. Fu / Return (The Turning Point)
-25. Wu Wang / Innocence (The Unexpected)
-26. Ta Ch'u / The Taming Power of the Great
-27. I / Comers of the Mouth (Providing Nourishment)
-28. Ta Kuo / Preponderance of the Great
-29. K'an / The Abysmal (Water)
-30. Li / The Clinging, Fire
-31. Hsien / Influence (Wooing)
-32. Heng / Duration
-33. TUN / Retreat
-34. Ta Chuang / The Power of the Great
-35. Chin / Progress
-36. Ming I / Darkening of the light
-37. Chia Jen / The Family [The Clan]
-38. K'uei / Opposition
-39. Chien / Obstruction
-40. Hsieh / Deliverance
-41. Sun / Decrease
-42. I / Increase
-43. Kuai / Break-through (Resoluteness)
-44. Kou / Coming to Meet
-45. Ts'ui / Gathering Together [Massing]
-46. Sheng / Pushing Upward
-47. K'un / Oppression (Exhaustion)
-48. Ching / The Well
-49. Ko / Revolution (Molting)
-50. Ting / The Caldron
-51. Chen / The Arousing (Shock, Thunder)
-52. Ken / Keeping Still, Mountain
-53. Chien / Development (Gradual Progress)
-54. Kuei Mei / The Marrying Maiden
-55. Feng / Abundance [Fullness]
-56. Lii / The Wanderer
-57. Sun / The Gentle (The Penetrating, Wind)
-58. Tui / The Joyous, Lake
-59. Huan / Dispersion [Dissolution]
-60. Chieh / Limitation
-61. Chung Fu / Inner Truth
-62. Hsiao Kuo / Preponderance of the Small
-63. Chi Chi / After Completion
-64. Wei Chi / Before Completion
+
+![Chinese English](./img/en-ch-1.jpg)
+![Chinese English](./img/en-ch-2.jpg)
+
+Source: zhihu.com
+
+1. Ch'ien / The Creative / 乾
+2. K'un / The Receptive / 坤
+3. Chun / Difficulty at the Beginning / 屯
+4. Meng / Youthful Folly / 蒙
+5. Hsii / Waiting (Nourishment) / 需
+6. Sung / Conflict / 讼
+7. Shih / The Army / 师
+8. Pi / Holding Together [union] / 比
+9. Hsiao Ch'u / The Taming Power of the Small / 小畜
+10. Lit / Treading [conduct] / 履
+11. T'ai / Peace / 泰
+12. P'i / Standstill [Stagnation] / 否
+13. T'ung Jen / Fellowship with Men / 同人
+14. Ta Yu / Possession in Great Measure / 大有
+15. Ch'ien / Modesty / 谦
+16. Yii / Enthusiasm / 豫
+17. Sui / Following / 随
+18. Ku / Work on what has been spoiled [ Decay ] / 蛊
+19. Lin / Approach / 临
+20. Kuan/ Contemplation (View) / 观
+21. Shih Ho / Biting Through / 噬嗑
+22. Pi / Grace / 贲
+23. Po / Splitting Apart / 剥
+24. Fu / Return (The Turning Point) / 复
+25. Wu Wang / Innocence (The Unexpected) / 无妄
+26. Ta Ch'u / The Taming Power of the Great / 大畜
+27. I / Comers of the Mouth (Providing Nourishment) / 颐
+28. Ta Kuo / Preponderance of the Great / 大过
+29. K'an / The Abysmal (Water) / 坎
+30. Li / The Clinging, Fire / 离
+31. Hsien / Influence (Wooing) / 咸
+32. Heng / Duration / 恒
+33. TUN / Retreat / 遁
+34. Ta Chuang / The Power of the Great / 大壮
+35. Chin / Progress / 晋
+36. Ming I / Darkening of the light / 明夷
+37. Chia Jen / The Family [The Clan] / 家人
+38. K'uei / Opposition / 睽
+39. Chien / Obstruction / 蹇
+40. Hsieh / Deliverance / 解
+41. Sun / Decrease / 损
+42. I / Increase / 益
+43. Kuai / Break-through (Resoluteness) / 夬
+44. Kou / Coming to Meet / 姤
+45. Ts'ui / Gathering Together [Massing] / 萃
+46. Sheng / Pushing Upward / 升
+47. K'un / Oppression (Exhaustion) / 困
+48. Ching / The Well / 井
+49. Ko / Revolution (Molting) / 革
+50. Ting / The Caldron / 鼎
+51. Chen / The Arousing (Shock, Thunder) / 震
+52. Ken / Keeping Still, Mountain / 艮
+53. Chien / Development (Gradual Progress) / 渐
+54. Kuei Mei / The Marrying Maiden / 归妹
+55. Feng / Abundance [Fullness] / 丰收
+56. Lii / The Wanderer / 旅
+57. Sun / The Gentle (The Penetrating, Wind) / 巽
+58. Tui / The Joyous, Lake / 兑
+59. Huan / Dispersion [Dissolution] / 涣
+60. Chieh / Limitation / 节
+61. Chung Fu / Inner Truth / 中孚
+62. Hsiao Kuo / Preponderance of the Small / 小过
+63. Chi Chi / After Completion / 既济
+64. Wei Chi / Before Completion / 未济
 
 ## 1. Ch'ien / The Creative
 
@@ -394,10 +406,7 @@ Is to prevent transgressions.
 
 Sometimes an incorrigible fool must be punished. He who will not heed will be made to feel. This punishment is quite different from a preliminary shaking up. But the penalty should not be imposed in anger; it must be restricted to an objective guarding against unjustified excesses. Punishment is never an end in itself but serves merely to restore order. This applies not only in regard to education but also in regard to the measures taken by a government against a populace guilty of transgressions. Governmental interference should always be merely preventive and should have as its sole aim the establishment of public security and peace.
 
-index
-
-
-5. Hsü / Waiting (Nourishment)
+## 5. Hsü / Waiting (Nourishment)
 
 above K'AN THE ABYSMAL, WATER
 below CH'IEN THE CREATIVE, HEAVEN
@@ -469,10 +478,7 @@ Three uninvited guests arrive.
 Honor them, and in the end there will be good fortune.
 The waiting is over; the danger can no longer be averted. One falls into the pit and must yield to the inevitable. Everything seems to have been in vain. But precisely in this extremity things take an unforeseen turn. Without a move on one's own part, there is outside intervention. At first one cannot be sure of its meaning: is it rescue or is it destruction? A person in this situation must keep his mind alert and not withdraw into himself with a sulky gesture of refusal, but must greet the new turn with respect. Thus he ultimately escapes the danger, and all goes well. Even happy turns of fortune often come in a form that at first seems strange to us.
 
-index
-
-
-6. Sung / Conflict
+## 6. Sung / Conflict
 
 above CH'IEN THE CREATIVE, HEAVEN
 below K'AN THE ABYSMAL, WATER
@@ -552,10 +558,8 @@ It will have been snatched away three times.
 
 Here we have someone who has carried a conflict to the bitter end and has triumphed. He is granted a decoration, but his happiness does not last. He is attacked again and again, and the result is conflict without end.
 
-index
 
-
-7. Shih / The Army
+## 7. Shih / The Army
 
 above K'UN THE RECEPTIVE, EARTH
 below K'AN THE ABYSMAL, WATER
@@ -629,10 +633,7 @@ Inferior people should not be employed.
 
 The war has ended successfully, victory is won, and the king divided estates and fiefs among his faithful vassals. But it is important that inferior people should not come into power. If they have helped, let them be paid off with money, but they should not be awarded lands or the privileges of rulers, lest power be abused.
 
-index
-
-
-8. Pi / Holding Together [union]
+## 8. Pi / Holding Together [union]
 
 above K'AN THE ABYSMAL, WATER
 below K'UN THE RECEPTIVE, EARTH
@@ -709,10 +710,7 @@ He finds no head for holding together.
 Misfortune.
 The head is the beginning. If the beginning is not right, there is no hope of a right ending. If we have missed the right moment for union and go on hesitating to give complete and full devotion, we shall regret the error when it is too late.
 
-index
-
-
-9. Hsiao Ch'u / The Taming Power of the Small
+## 9. Hsiao Ch'u / The Taming Power of the Small
 
 above SUN THE GENTLE, WIND
 below CH'IEN THE CREATIVE, HEAVEN
@@ -782,10 +780,7 @@ Misfortune comes.
 
 Success is at hand. The wind has driven up the rain. A fixed standpoint has been reach. This has come about through the cumulation of small effects produced by reverence for a superior character. But a success thus secured bit by bit calls for great caution. It would be a dangerous illusion for anyone to think he could presume upon it. The female principle, the weak element that has won the victory, should never persist in vaunting it--that would lead to danger. The dark power in the moon is strongest when the moon is almost full. When it is full and directly opposite the sun, its waning is inevitable. Under such circumstances one must be content with what has been achieved. To advance any further, before the appropriate time has come, would lead to misfortune.
 
-index
-
-
-10. Lü / Treading [conduct]
+## 10. Lü / Treading [conduct]
 
 above CH'IEN THE CREATIVE, HEAVEN
 below TUI THE JOYOUS, LAKE
@@ -859,10 +854,7 @@ When everything is fulfilled, supreme good fortune comes.
 
 The work is ended. If we want to know whether good fortune will follow, we must look back upon our conduct and its consequences. If the effects are good, then good fortune is certain. No one knows himself. It is only by the consequences of his actions, by the fruit of his labors, that a man can judge what he is to expect.
 
-index
-
-
-11. T'ai / Peace
+## 11. T'ai / Peace
 
 above K'UN THE RECEPTIVE, EARTH
 below CH'IEN THE CREATIVE, HEAVEN
@@ -942,10 +934,7 @@ Perseverance brings humiliation.
 
 The change alluded to in the middle of the hexagram has begun to take place. The wall of the town sinks back into the moat from which it was dug. The hour of doom is at hand. When matters have come to this pass, we should submit to fate and not try to stave it off by violent resistance. The one recourse left us is to hold our own within our intimate circle. Should we persevere in trying to resist the evil in the usual way, our collapse would only be more complete, and humiliation would be the result.
 
-index
-
-
-12. P'i / Standstill [Stagnation]
+## 12. P'i / Standstill [Stagnation]
 
 above CH'IEN THE CREATIVE, HEAVEN
 below K'UN THE RECEPTIVE, EARTH
@@ -1019,10 +1008,7 @@ First standstill, then good fortune.
 
 The standstill does not last forever. However, it does not cease of its own accord; the right man is needed to end it. This is the difference between a state of peace and a state of stagnation. Continuous effort is necessary to maintain peace: left to itself it would change into stagnation and disintegration. The time of disintegration, however, does not change back automatically to a condition of peace and prosperity; effort must be put forth in order to end it. This shows the creative attitude that man must take if the world is to be put in order.
 
-index
-
-
-13. T'ung Jên / Fellowship with Men
+## 13. T'ung Jên / Fellowship with Men
 
 above CH'IEN THE CREATIVE, HEAVEN
 below LI THE CLINGING, FLAME
@@ -1098,10 +1084,8 @@ No remorse.
 
 The warm attachment that springs from the heart is lacking here. We are by this time actually outside of fellowship with others. However, we ally ourselves with them. The fellowship does not include all, but only those who happen to dwell near one another. The meadow is the pasture at the entrance to the town. At this stage, the ultimate goal of the union of mankind has not yet been attained, but we need not reproach ourselves. We join the community without separate aims of our own.
 
-index
 
-
-14. Ta Yu / Possession in Great Measure
+## 14. Ta Yu / Possession in Great Measure
 
 above LI THE CLINGING, FLAME
 below CH'IEN THE CREATIVE, HEAVEN
@@ -1177,10 +1161,7 @@ In the fullness of possession and at the height of power, one remains modest and
 
 To bless means to help. Heaven helps the man who is devoted; men help the man who is true. He who walks in truth and is devoted in his thinking, and furthermore reveres the worthy, is blessed by heaven. He has good fortune, and there is nothing that would not further.
 
-index
-
-
-15. Ch'ien / Modesty
+## 15. Ch'ien / Modesty
 
 above K'UN THE RECEPTIVE, EARTH
 below KEN KEEPING STILL, MOUNTAIN
@@ -1254,10 +1235,7 @@ To chastise one's own city and one's country.
 
 A person who is really sincere in his modesty must make it show in reality. He must proceed with great energy in this. When enmity arises nothing is easier than to lay the blame on another. A weak man takes offense perhaps, and draws back, feeling self-pity; he thinks that it is modesty that keeps him from defending himself. Genuine modesty sets one to creating order and inspires one to begin by disciplining one's own ego and one's immediate circle. Only through having the courage to marshal one's armies against oneself, will something forceful really be achieved.
 
-index
-
-
-16. Yü / Enthusiasm
+## 16. Yü / Enthusiasm
 
 above CHêN THE AROUSING, THUNDER
 below K'UN THE RECEPTIVE, EARTH
@@ -1340,10 +1318,7 @@ There is no blame.
 
 It is a bad thing for a man to let himself be deluded by enthusiasm. But if this delusion has run its course, and he is still capable of changing, then he is freed of error. A sober awakening from false enthusiasm is quite possible and very favorable.
 
-index
-
-
-17. Sui / Following
+## 17. Sui / Following
 
 above TUI THE JOYOUS, LAKE
 below CHêN THE AROUSING, THUNDER
@@ -1418,10 +1393,7 @@ To the Western Mountain.
 
 This refers to a man, an exalted sage, who has already put the turmoil of the world behind him. But a follower appears who understands him and is not to be put off. So the sage comes back into the world and aids the other in his work. Thus there develops an eternal tie between the two. The allegory is chosen from the annals of the Chou dynasty. The rulers of this dynasty honored men who had served them well by awarding them a place in the royal family's temple of ancestors on the Western Mountain. In this way they were regarded as sharing in the destiny of the ruling family.
 
-index
-
-
-18. Ku / Work on what has been spoiled [ Decay ]
+## 18. Ku / Work on what has been spoiled [ Decay ]
 
 above Kên KEEPING STILL, MOUNTAIN
 below Sun THE GENTLE, WIND
@@ -1490,10 +1462,7 @@ He does not serve kings and princes,
 Sets himself higher goals.
 Not every man has an obligation to mingle in the affairs of the world. There are some who are developed to such a degree that they are justified in letting the world go its own way and refusing to enter public life with a view to reforming it. But this does not imply a right to remain idle or to sit back and merely criticize. Such withdrawal is justified only when we strive to realize in ourselves the higher aims of mankind. For although the sage remains distant from the turmoil of daily life, he creates incomparable human values for the future.
 
-index
-
-
-19. Lin / Approach
+## 19. Lin / Approach
 
 above K'UN THE RECEPTIVE, EARTH
 below TUI THE JOYOUS, LAKE
@@ -1568,10 +1537,7 @@ Good fortune. No blame.
 
 A sage who has put the world behind him and who in spirit has already withdrawn from life may, under certain circumstances, decide to return once more to the here and now and to approach other men. This means great good fortune for the men whom he teaches and helps. And for him this great hearted humbling of himself is blameless.
 
-index
-
-
-20. Kuan / Contemplation (View)
+## 20. Kuan / Contemplation (View)
 
 above SUN THE GENTLE, WIND
 below K'UN THE RECEPTIVE, EARTH
@@ -1636,10 +1602,7 @@ The superior man is without blame.
 
 While the preceding line represents a man who contemplates himself, here in the highest place everything that is personal, related to the ego, is excluded. The picture is that of a sage who stands outside the affairs of the world. Liberated from his ego, he contemplates the laws of life and so realizes that knowing how to become free of blame is the highest good.
 
-index
-
-
-21. Shih Ho / Biting Through
+## 21. Shih Ho / Biting Through
 
 above LI THE CLINGING, FIRE
 below CHêN THE AROUSING, THUNDER
@@ -1719,10 +1682,7 @@ Misfortune.
 
 In contrast to the first line, this line refers to a man who is incorrigible. His punishment is the wooden cangue, and his ears disappear under it-that is to say, he is deaf to warnings. This obstinacy leads to misfortune.
 
-index
-
-
-22. Pi / Grace
+## 22. Pi / Grace
 
 above KêN KEEPING STILL, MOUNTAIN
 below LI THE CLINGING, FIRE
@@ -1790,10 +1750,7 @@ Simple grace. No blame.
 
 Here at the highest stage of development all ornament is discarded. Form no longer conceals content but brings out its value to the full. Perfect grace consists not in exterior ornamentation of the substance, but in the simple fitness of its form.
 
-index
-
-
-23. Po / Splitting Apart
+## 23. Po / Splitting Apart
 
 above KêN KEEPING STILL, MOUNTAIN
 below LI THE CLINGING, FIRE
@@ -1861,10 +1818,7 @@ The house of the inferior man is split apart.
 
 Here the splitting apart reaches its end. When misfortune has spent itself, better times return. The seed of the good remains, and it is just when the fruit falls to the ground that food sprouts anew from its seed. The superior man again attains influence and effectiveness. He is supported by public opinion as if in a carriage. But the inferior man's wickedness is visited upon himself. His house is split apart. A law of nature is at work here. Evil is not destructive to the good alone but inevitably destroys itself as well. For evil, which lives solely by negation, cannot continue to exist on its own strength alone. The inferior man himself fares best when held under control by a superior man.
 
-index
-
-
-24. Fu / Return (The Turning Point)
+## 24. Fu / Return (The Turning Point)
 
 above K'UN THE RECEPTIVE, EARTH
 below CHêN THE AROUSING, THUNDER
@@ -1941,10 +1895,7 @@ It will not be possible to attack again.
 
 If a man misses the right time for return, he meets with misfortune. The misfortune has its inner cause in a wrong attitude toward the world. The misfortune coming upon him for without results from this wrong attitude. What is pictured here is blind obstinacy and the judgment that is visited upon it.
 
-index
-
-
-25. Wu Wang / Innocence (The Unexpected)
+## 25. Wu Wang / Innocence (The Unexpected)
 
 above CH'IEN THE CREATIVE, HEAVEN
 below CHêN THE AROUSING, THUNDER
@@ -2020,10 +1971,7 @@ Nothing furthers.
 
 When, in a given situation, the time is not ripe for further progress, the best thing to do is to wait quietly, without ulterior designs. If one acts thoughtlessly and tries to push ahead in opposition to fate, success will not be achieved.
 
-index
-
-
-26. Ta Ch'u / The Taming Power of the Great
+## 26. Ta Ch'u / The Taming Power of the Great
 
 above KêN KEEPING STILL, MOUNTAIN
 below CH'IEN THE CREATIVE, HEAVEN
@@ -2097,10 +2045,7 @@ Success.
 
 The time of obstruction is past. The energy long dammed up by inhibition forces its way out and achieves great success. This refers to a man who is honored by the ruler and whose principles now prevail and shape the world.
 
-index
-
-
-27. I / Corners of the Mouth (Providing Nourishment)
+## 27. I / Corners of the Mouth (Providing Nourishment)
 
 above KêN KEEPING STILL, MOUNTAIN
 below CHêN THE AROUSING, THUNDER
@@ -2188,10 +2133,7 @@ It furthers one to cross the great water.
 
 This describes a sage of the highest order, from whom emanate all influences that provide nourishment for others. Such a position brings with it heavy responsibility. If he remains conscious of this fact, he has good fortune and may confidently undertake even great and difficult labors, such as crossing the great water. These undertakings bring general happiness for him and for all others.
 
-index
-
-
-28. Ta Kuo / Preponderance of the Great
+## 28. Ta Kuo / Preponderance of the Great
 
 above TUI THE JOYOUS, LAKE
 below SUN THE GENTLE, WIND, WOOD
@@ -2268,10 +2210,7 @@ Misfortune. No blame.
 
 Here is a situation in which the unusual has reached a climax. One is courageous and wishes to accomplish one's task, no matter what happens. This leads into danger. The water rises over one's head. This is the misfortune. But one incurs no blame in giving up one's life that the good and the right may prevail. There are things that are more important than life.
 
-index
-
-
-29. K'an / The Abysmal (Water)
+## 29. K'an / The Abysmal (Water)
 
 above K'AN THE ABYSMAL, WATER
 below K'AN THE ABYSMAL, WATER
@@ -2351,10 +2290,8 @@ Misfortune.
 
 A man who in the extremity of danger has lost the right way and is irremediably entangled in his sins has no prospect of escape. He is like a criminal who sits shackled behind thorn hedged prison walls.
 
-index
 
-
-30. Li / The Clinging, Fire
+## 30. Li / The Clinging, Fire
 
 above LI THE CLINGING, FIRE
 below LI THE CLINGING, FIRE
@@ -2425,10 +2362,7 @@ And take captive the followers. No blame.
 
 It is not the purpose of chastisement to impose punishment blindly but to create discipline. Evil must be cured at its roots. To eradicate evil in political life, it is best to kill the ringleaders and spare the followers. In educating oneself it is best to root out bad habits and tolerate those that are harmless. For asceticism that is too strict, like sentences of undue severity, fails in its purpose.
 
-index
-
-
-31. Hsien / Influence (Wooing)
+## 31. Hsien / Influence (Wooing)
 
 above TUI THE JOYOUS, LAKE
 below KêN KEEPING STILL, MOUNTAIN
@@ -2504,10 +2438,7 @@ The influence shows itself in the jaws, cheeks, and tongue.
 
 The most superficial way of trying to influence others is through talk that has nothing real behind it. The influence produced by such mere tongue wagging must necessarily remain insignificant. Hence no indication is added regarding good or bad fortune.
 
-index
-
-
-32. Hêng / Duration
+## 32. Hêng / Duration
 
 above CHEN THE AROUSING, THUNDER
 below SUN THE GENTLE, WIND
@@ -2573,10 +2504,7 @@ Restlessness as an enduring condition brings misfortune.
 
 There are people who live in a state of perpetual hurry without ever attaininginner composure. Restlessness not only prevents all thoroughness but actuallybecomes a danger if it is dominant in places of authority.
 
-index
-
-
-33. TUN / Retreat
+## 33. TUN / Retreat
 
 above CH'IEN THE CREATIVE, HEAVEN
 below KêN KEEPING STILL, MOUNTAIN
@@ -2645,10 +2573,7 @@ Cheerful retreat. Everything serves to further.
 
 The situation is unequivocal. Inner detachment has become an established fact, and we are at liberty to depart. When one sees the way ahead thus clearly, free of all doubt, a cheerful mood sets in, and one chooses what is right without further thought. Such a clear path ahead always leads to the good.
 
-index
-
-
-34. Ta Chuang / The Power of the Great
+## 34. Ta Chuang / The Power of the Great
 
 above CHêN THE AROUSING, THUNDER
 
@@ -2732,10 +2657,7 @@ If one notes the difficulty, this brings good fortune.
 
 If we venture too far we come to a deadlock, unable either to advance or to retreat and whatever we do merely serves to complicate thing further. Such obstinacy leads to insuperable difficulties. But if, realizing the situation, we compose ourselves and decide not to continue, everything will right itself in time.
 
-index
-
-
-35. Chin / Progress
+## 35. Chin / Progress
 
 above LI THE CLINGING, FIRE
 below K'UN THE RECEPTIVE, EARTH
@@ -2818,10 +2740,7 @@ Perseverance brings humiliation.
 
 Making progress with lowered horns-i.e., acting on the offensive-is permissible, in times like those referred to here, only in dealing with the mistakes of one's own people. Even then we must bear in mind that proceeding on the offensive may always be dangerous. In this way we avoid the mistakes that otherwise threaten, and succeed in what we set out to do. On the other hand, perseverance in such over energetic behavior, especially toward persons with whom there is no close connection, will lead to humiliation.
 
-index
-
-
-36. Ming I / Darkening of the light
+## 36. Ming I / Darkening of the light
 
 above K'UN THE RECEPTIVE, EARTH
 below LI THE CLINGING, FIRE
@@ -2898,10 +2817,7 @@ Then plunged into the depths of the earth.
 
 Here the climax of the darkening is reached. The dark power at first held so high a place that it could wound all who were on the side of good and of the light. But in the end it perishes of its own darkness, for evil must itself fall at the very moment when it has wholly overcome the good, and thus consumed the energy to which it owed its duration.
 
-index
-
-
-37. Chia Jên / The Family [The Clan]
+## 37. Chia Jên / The Family [The Clan]
 
 above SUN THE GENTLE, WIND
 below LI THE CLINGING, FIRE
@@ -2972,10 +2888,7 @@ In the end good fortune comes.
 
 In the last analysis, order within the family depends on the character of the master of the house. If he cultivates his personality so that it works impressively through the force of inner truth, all goes well with the family. In a ruling position one must of his own accord assume responsibility.
 
-index
-
-
-38. K'uei / Opposition
+## 38. K'uei / Opposition
 
 above LI THE CLINGING, FLAME
 below TUI THE JOYOUS, LAKE
@@ -3061,10 +2974,7 @@ As one goes, rain falls; then good fortune comes.
 
 Here the isolation is due to misunderstanding; it is brought about not by outer circumstances but by inner conditions. A man misjudges his best friends, taking them to be as unclean as a dirty pig in and as dangerous as a wagon full of devils. He adopts an attitude of defense. But in the end, realizing his mistake, he lays aside the bow, perceiving that the other is approaching with the best intentions for the purpose of close union. Thus the tension is relieved. The union resolves the tension, just as falling rain relieves the sultriness preceding a thunderstorm. All goes well, for just when opposition reaches its climax it changes over to its antithesis.
 
-index
-
-
-39. Chien / Obstruction
+## 39. Chien / Obstruction
 
 above K'AN THE ABYSMAL, WATER
 below KêN KEEPING STILL, MOUNTAIN
@@ -3136,10 +3046,7 @@ It furthers one to see the great man.
 
 This refers to a man who has already left the world and its tumult behind him. When the time of obstructions arrives, it might seem that the simplest thing for him to do would be to turn his back upon the world and take refuge in the beyond. But this road is barred to him. He must not seek his own salvation and abandon the world to its adversity. Duty calls him back once more into the turmoil of life. Precisely because of his experience and inner freedom, he is able to create something both great and complete that brings good fortune. And it is favorable to see the great man in alliance with whom one can achieve the work of rescue.
 
-index
-
-
-40. Hsieh / Deliverance
+## 40. Hsieh / Deliverance
 
 above CHêN THE AROUSING, THUNDER
 below K'AN THE ABYSMAL, WATER
@@ -3219,10 +3126,7 @@ The hawk on a high wall is the symbol of a powerful inferior in a high position 
 
 The hawk is the object of the hunt; bow and arrow are the tools and means. The marksman is man (who must make proper use of the means to his end). The superior man contains the means in his own person. He bides his time and then acts. Why then should not everything go well? He acts and is free. Therefore all he has to do is to go forth, and he takes his quarry. This is how a man fares who acts after he has made ready the means.
 
-index
-
-
-41. Sun / Decrease
+## 41. Sun / Decrease
 
 above KêN KEEPING STILL, MOUNTAIN
 below TUI THE JOYOUS, LAKE
@@ -3311,10 +3215,7 @@ But no longer has a separate home.
 
 There are people who dispense blessings to the whole world. Every increase in power that comes to them benefits the whole of mankind and therefore does not bring decrease to others. Through perseverance and zealous work a man wins success and finds helpers as they are needed. But what he accomplishes is not a limited private advantage; it is a public good and available to everyone.
 
-index
-
-
-42. I / Increase
+## 42. I / Increase
 
 above SUN THE GENTLE, WIND
 below CHêN THE AROUSING, THUNDER
@@ -3401,10 +3302,7 @@ The meaning here is that through renunciation those in high place should bring i
 
 The superior man sets his person at rest before he moves; he composes his mind before he speaks; he makes his relations firm before he asks for something. By attending to these three matters, the superior man gains complete security. But if a man is brusque in his movements, others will not cooperate. If he is agitated in his word, they awaken no echo in others. If he asks for something without having fist established relations, it will not be given to him. If no one is with him, those who would harm him draw near.
 
-index
-
-
-43. Kuai / Break-through (Resoluteness)
+## 43. Kuai / Break-through (Resoluteness)
 
 above TUI THE JOYOUS, LAKE
 below CH'IEN THE CREATIVE, HEAVEN
@@ -3492,10 +3390,7 @@ In the end misfortune comes.
 
 Victory seems to have been achieved. There remains merely a remnant of the evil resolutely to be eradicated as the time demands. Everything looks easy. Just there, however, lies the danger. If we are not on guard, evil will succeed in escaping by means of concealment, and when it has eluded us new misfortunes will develop from the remaining seeds, for evil does not die easily. So too in dealing with the evil in own's own character, one must go to work with thoroughness. If out of carelessness anything were to be overlooked, new evil would arise from it.
 
-index
-
-
-44. Kou / Coming to Meet
+## 44. Kou / Coming to Meet
 
 above CH'IEN THE CREATIVE, HEAVEN
 below SUN THE GENTLE, WIND
@@ -3568,10 +3463,7 @@ Humiliation. No blame.
 
 When a man has withdrawn from the world, its tumult often becomes unbearable to him. There are many people who in a noble pride hold themselves aloof from all that is low and rebuff it brusquely wherever it comes to meet them. Such persons are reproached for being proud and distant, but since active duties no longer hold them to the world, this does not greatly matter. They know how to bear the dislike of the masses with composure.
 
-index
-
-
-45. Ts'ui / Gathering Together [Massing]
+## 45. Ts'ui / Gathering Together [Massing]
 
 above TUI THE JOYOUS, LAKE
 below K'UN THE RECEPTIVE, EARTH
@@ -3664,10 +3556,7 @@ No blame.
 
 It may happen that an individual would like to ally himself with another, but his good intentions are misunderstood. Then he becomes sad and laments. But this is the right course. For it may cause the other person to come to his senses, so that the alliance that has been sought and so painfully missed is after all achieved.
 
-index
-
-
-46. Shêng / Pushing Upward
+## 46. Shêng / Pushing Upward
 
 above K'UN THE RECEPTIVE, EARTH
 below SUN THE GENTLE, WIND, WOOD
@@ -3743,10 +3632,7 @@ To be unremittingly persevering.
 
 He who pushes upward blindly deludes himself. He knows only advance, not retreat. But this means exhaustion. In such a case it is important to be constantly mindful that one must be conscientious and consistent and must remain so. Only thus does one become free of blind impulse, which is always harmful.
 
-index
-
-
-47. K'un / Oppression (Exhaustion)
+## 47. K'un / Oppression (Exhaustion)
 
 above TUI THE JOYOUS, LAKE
 below K'AN THE ABYSMAL, WATER
@@ -3833,10 +3719,7 @@ Good fortune comes.
 
 A man is oppressed by bonds that can easily be broken. The distress is drawing to an end. But he is still irresolute; he is still influenced by the previous condition and fears that he may have cause for regret if he makes a move. But as soon as he grasps the situation, changes this mental attitude, and makes a firm decision, he masters the oppression.
 
-index
-
-
-48. Ching / The Well
+## 48. Ching / The Well
 
 above K'AN THE ABYSMAL, WATER
 below SUN THE GENTLE, WIND, WOOD
@@ -3916,10 +3799,7 @@ Supreme good fortune.
 
 The well is there fore all. No one is forbidden to take water from it. No matter how many come, all find what they need, for the well is dependable. It has a spring and never runs dry. Therefore it is a great blessing to the whole land. The same is true of the really great man, whose inner wealth is inexhaustible; the more that people draw from him, the greater his wealth becomes.
 
-index
-
-
-49. Ko / Revolution (Molting)
+## 49. Ko / Revolution (Molting)
 
 above TUI THE JOYOUS, LAKE
 below LI THE CLINGING, FIRE
@@ -4002,10 +3882,7 @@ To remain persevering brings good fortune.
 
 After the large and fundamental problems are settled, certain minor reforms, and elaborations of these, are necessary. These detailed reforms may be likened to the equally distinct but relatively small marks of the panther's coat. As a consequence, a change also takes place among the inferior people. In conformity with the new order, they likewise "molt." This molting, it is true, does not go very deep, but that is not to be expected. We must be satisfied with the attainable. If we should go too far and try to achieve too much, it would lead to unrest and misfortune. For the object of a great revolution is the attainment of clarified, secure conditions ensuring a general stabilization on the basis of what is possible at the moment.
 
-index
-
-
-50. Ting / The Caldron
+## 50. Ting / The Caldron
 
 above LI THE CLINGING, FIRE
 below SUN THE GENTLE, WIND, WOOD
@@ -4089,10 +3966,8 @@ Nothing that would not act to further.
 
 In the preceding line the carrying rings are described as golden, to denote their strength; here they are said to be of jade. Jade is notable for its combination of hardness with soft luster. This counsel, in relation to the man who is open to it, works greatly t his advantage. Here the counsel is described in relation to the sage who imparts it. In imparting it, he will be mild and pure, like precious jade. Thus the work finds favor in the eyes of the Deity, who dispenses great good fortune, and becomes pleasing to men, wherefore all goes well.
 
-index
 
-
-51. Chên / The Arousing (Shock, Thunder)
+## 51. Chên / The Arousing (Shock, Thunder)
 
 above CHêN THE AROUSING, THUNDER
 below CHêN THE AROUSING, THUNDER
@@ -4178,10 +4053,7 @@ One's comrades have something to talk about.
 
 When inner shock is at its height, it robs a man of reflection and clarity of vision. In such a state of shock it is of course impossible to act with presence of mind. Then the right thing is to keep still until composure and clarity are restored. But this a man can do only when he himself is not yet infected by the agitation, although its disastrous effects are already visible in those around him. If he withdraws from the affair in time, he remains free of mistakes and injury. But his comrades, who no longer heed any warning, will in their excitement certainly be displeased with him. However, he must not take this into account.
 
-index
-
-
-52. Kên / Keeping Still, Mountain
+## 52. Kên / Keeping Still, Mountain
 
 above KêN KEEPING STILL, MOUNTAIN
 below KêN KEEPING STILL, MOUNTAIN
@@ -4263,10 +4135,7 @@ Good fortune.
 
 This marks the consummation of the effort to attain tranquillity. One is at rest, not merely in a small, circumscribed way in regard to matters of detail, but one has also a general resignation in regard to life as a whole, and this confers peace and good fortune in relation to every individual matter.
 
-index
-
-
-53. Chien / Development (Gradual Progress)
+## 53. Chien / Development (Gradual Progress)
 
 above SUN THE GENTLE, WIND, WOOD
 below KêN KEEPING STILL, MOUNTAIN
@@ -4347,10 +4216,7 @@ Good fortune.
 
 Here life comes to its end. A man's work stands completed. The path rises high toward heaven, like the flight of wild geese when they have left the earth far behind. There they fly, keeping to the order of their flight in strict formation. And if their feathers fall, they can serve as ornaments in the sacred dance pantomimes performed in the temples. Thus the life of a man who has perfected himself is a bright light for the people of earth, who look up to him as an example.
 
-index
-
-
-54. Kuei Mei / The Marrying Maiden
+## 54. Kuei Mei / The Marrying Maiden
 
 above CHêN THE AROUSING, THUNDER
 below TUI THE JOYOUS, LAKE
@@ -4443,10 +4309,7 @@ Nothing that acts to further.
 
 At the sacrifice to the ancestors, the woman had to present harvest offerings in a basket, while the man slaughtered the sacrificial animal with his own hand. Here the ritual is only superficially fulfilled; the woman takes an empty basket and the man stabs a sheep slaughtered beforehand-solely to preserve the forms. This impious, irreverent attitude bodes no good for a marriage.
 
-index
-
-
-55. Fêng / Abundance [Fullness]
+## 55. Fêng / Abundance [Fullness]
 
 above CHêN THE AROUSING, THUNDER
 below LI THE CLINGING, FIRE
@@ -4537,10 +4400,7 @@ Misfortune.
 
 This describes a man who because of his arrogance and obstinacy attains the opposite of what he strives for. He seeks abundance and splendor for his dwelling. He wishes at all odds to be master in his house, which so alienates his family that in the end he finds himself completely isolated.
 
-index
-
-
-56. Lü / The Wanderer
+## 56. Lü / The Wanderer
 
 above LI THE CLINGING, FIRE
 below KêN KEEPING STILL, MOUNTAIN
@@ -4612,10 +4472,7 @@ Misfortune.
 
 The picture of a bird whose nest burns up indicates loss of one's resting place. This misfortune may overtake the bird if it is heedless and imprudent when building its nest. It is the same with a wanderer. If he lets himself go, laughing and jesting, and forgets that he is a wanderer, he will later have cause to weep and lament. For if through carelessness a man loses his cow-i.e., his modesty and adaptability-evil will result.
 
-index
-
-
-57. Sun / The Gentle (The Penetrating, Wind)
+## 57. Sun / The Gentle (The Penetrating, Wind)
 
 above SUN THE GENTLE, WIND, WOOD
 below SUN THE GENTLE, WIND, WOOD
@@ -4699,10 +4556,7 @@ Perseverance brings misfortune.
 
 A man's understanding is sufficiently penetrating. He follows up injurious influences into the most secret corners. But he no longer has the strength to combat them decisively. In this case any attempt to penetrate into the personal domain of darkness would only bring harm.
 
-index
-
-
-58. Tui / The Joyous, Lake
+## 58. Tui / The Joyous, Lake
 
 above TUI THE JOYOUS, LAKE
 below TUI THE JOYOUS, LAKE
@@ -4765,10 +4619,7 @@ Seductive joyousness.
 
 A vain nature invites diverting pleasures and must suffer accordingly (cf. the six in the third place). If a man is unstable within, the pleasures of the world that he does not shun have so powerful an influence that he is swept along by them. Here it is no longer a question of danger, of good fortune or misfortune. He has given up direction of his own life, and what becomes of him depends upon chance and external influences.
 
-index
-
-
-59. Huan / Dispersion [Dissolution]
+## 59. Huan / Dispersion [Dissolution]
 
 above SUN THE GENTLE, WIND
 below K'AN THE ABYSMAL, WATER
@@ -4846,10 +4697,7 @@ Is without blame.
 
 The idea of the dissolving of a man's blood means the dispersion of that which might lead to bloodshed and wounds, i.e., avoidance of danger. But here the thought is not that a man avoids difficulties for himself alone, but rather that he rescues his kin-helps them to get away before danger comes, or to keep at a distance from an existing danger, or to find a way out of a danger that is already upon them. In this way he does what is right.
 
-index
-
-
-60. Chieh / Limitation
+## 60. Chieh / Limitation
 
 above K'AN THE ABYSMAL, WATER
 below TUI THE JOYOUS, LAKE
@@ -4919,10 +4767,7 @@ Remorse disappears.
 
 If one is too severe in setting up restrictions, people will not endure them. The more consistent such severity, the worse it is, for in the long run a reaction is unavoidable. In the same way, the tormented body will rebel against excessive asceticism. On the other hand, although ruthless severity is not to be applied persistently and systematically, there may be times when it si the only means of safeguarding against guilt and remorse. In such situations ruthlessness toward oneself is the only means of saving one's soul, which otherwise would succumb to irresolution and temptation.
 
-index
-
-
-61. Chung Fu / Inner Truth
+## 61. Chung Fu / Inner Truth
 
 above SUN THE GENTLE, WIND
 below TUI THE JOYOUS, LAKE
@@ -5001,10 +4846,7 @@ Perseverance brings misfortune.
 
 The cock is dependable. It crows at dawn. But it cannot itself fly to heaven. It just crows. A man may count on mere words to awaken faith. This may succeed now and then, but if persisted in, it will have bad consequences.
 
-index
-
-
-62. Hsiao Kuo / Preponderance of the Small
+## 62. Hsiao Kuo / Preponderance of the Small
 
 above CHêN THE AROUSING, THUNDER
 below KêN KEEPING STILL, MOUNTAIN
@@ -5100,10 +4942,7 @@ This means bad luck and injury.
 
 If one overshoots the goal, one cannot hit it. If a bird will not come to its nest but flies higher and higher, it eventually falls into the hunter's net. He who in times of extraordinary salience of small things does not know how to call a halt, but restlessly seeks to press on and on, draws upon himself misfortune at the hands of gods and men, because he deviates from the order of nature.
 
-index
-
-
-63. Chi Chi / After Completion
+## 63. Chi Chi / After Completion
 
 above K'AN THE ABYSMAL, WATER
 below LI THE CLINGING, FIRE
@@ -5184,10 +5023,7 @@ He gets his head in the water. Danger.
 
 Here in conclusion another warning is added. After crossing a stream, a man's head can get into the water only if he is so imprudent as to turn back. As long as he goes forward and does not look back, he escapes this danger. But there is a fascination in standing still and looking back on a peril overcome. However, such vain self-admiration brings misfortune. It leads only to danger, and unless one finally resolves to go forward without pausing, one falls a victim to this danger.
 
-index
-
-
-64. Wei Chi / Before Completion
+## 64. Wei Chi / Before Completion
 
 above LI THE CLINGING, FLAME
 below K'AN THE ABYSMAL, WATER
