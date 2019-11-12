@@ -1,10 +1,15 @@
 # 64 Hexagram Overview
 
 ## Trigrams
-![Hexagram Sequence Chart](./img/trigrams.jpg)
+
+![Trigrams](./img/trigrams.png)
+
 Source: wikipedia.com
+
 ## Sequence Chart
+
 ![Hexagram Sequence Chart](./img/sequence-chart.jpg)
+
 Source: inthefamilyway.org
 
 ## [How To Consult The I Ching Oracle](https://www.youtube.com/watch?v=KgXaIYpAEHQ)
