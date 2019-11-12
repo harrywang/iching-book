@@ -4,7 +4,7 @@
 
 ![wilhelm](./img/wilhelm.jpg)
 
-![My Copy of the Book](./img/mybook.jpg)
+![My Copy of the Book](./img/my-copy.jpg)
 
 My copy of the book
 
