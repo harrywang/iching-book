@@ -1,4 +1,8 @@
-# 64 Hexagram Overview
+# Overview
+
+## [Richard Wilhelm 卫礼贤](https://schoolofwisdom.com/about/richard-wilhelm-one-of-the-school-of-wisdoms-most-notable-teachers/)
+
+![Trigrams](./img/wilhelm.jpg)
 
 ## Trigrams
 
