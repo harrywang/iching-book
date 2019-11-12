@@ -1,14 +1,17 @@
 # Overview
 
-## [Richard Wilhelm 卫礼贤](https://schoolofwisdom.com/about/richard-wilhelm-one-of-the-school-of-wisdoms-most-notable-teachers/)
+## About Richard Wilhelm 卫礼贤
+https://schoolofwisdom.com/about/richard-wilhelm-one-of-the-school-of-wisdoms-most-notable-teachers/
 
 ![wilhelm](./img/wilhelm.jpg)
 
+## My copy of the book
+
 ![My Copy of the Book](./img/my-copy.jpg)
 
-My copy of the book
+## Foreword by Carl Gustav Jung 荣格
 
-## [Foreword by Carl Gustav Jung 荣格](https://www.iging.com/intro/foreword.htm)
+https://www.iging.com/intro/foreword.htm
 
 ## Trigrams
 
@@ -28,7 +31,8 @@ Source: inthefamilyway.org
 
 Source: baidu.com
 
-## [How To Consult The I Ching Oracle](https://www.youtube.com/watch?v=KgXaIYpAEHQ)
+## How To Consult The I Ching Oracle
+https://www.youtube.com/watch?v=KgXaIYpAEHQ
 
 # 64 Hexagram Details
 
