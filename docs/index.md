@@ -2,7 +2,13 @@
 
 ## [Richard Wilhelm 卫礼贤](https://schoolofwisdom.com/about/richard-wilhelm-one-of-the-school-of-wisdoms-most-notable-teachers/)
 
-![Trigrams](./img/wilhelm.jpg)
+![wilhelm](./img/wilhelm.jpg)
+
+![My Copy of the Book](./img/mybook.jpg)
+
+My copy of the book
+
+## [Foreword by Carl Gustav Jung 荣格](https://www.iging.com/intro/foreword.htm)
 
 ## Trigrams
 
