@@ -7,4 +7,6 @@ I added pictures on trigrams, sequence chart, Chinese pinyin pronunciation, and 
 TODO: parse the text into sections and generate files in different formats, e.g., csv, json, excel, etc.
 
 # Data Source
-Full I Ching Text by Richard Wilhelm from http://www2.unipr.it/~deyoung/I_Ching_Wilhelm_Translation.html
+- Full I Ching Text by Richard Wilhelm from http://www2.unipr.it/~deyoung/I_Ching_Wilhelm_Translation.html
+
+- Foreword by Carl Gustav Jung from https://www.iging.com/intro/foreword.htm

@@ -11,7 +11,7 @@
 
 ## Foreword by Carl Gustav Jung 荣格
 
-[https://www.iging.com/intro/foreword.htm](https://www.iging.com/intro/foreword.htm)
+[Link to Forward](./iching-foreword.html)
 
 ## Trigrams
 
@@ -42,10 +42,10 @@ Source: baidu.com
 Source: zhihu.com
 
 1. [Ch'ien / The Creative / 乾](#1-chien--the-creative)
-2. K'un / The Receptive / 坤
-3. Chun / Difficulty at the Beginning / 屯
-4. Meng / Youthful Folly / 蒙
-5. Hsii / Waiting (Nourishment) / 需
+2. [K'un / The Receptive / 坤](#2-kun--the-receptive)
+3. [Chun / Difficulty at the Beginning / 屯](#3-chun--difficulty-at-the-beginning)
+4. [Meng / Youthful Folly / 蒙](#4-mêng--youthful-folly)
+5. [Hsii / Waiting (Nourishment) / 需](#5-hsü--waiting-nourishment)
 6. Sung / Conflict / 讼
 7. Shih / The Army / 师
 8. Pi / Holding Together [union] / 比
