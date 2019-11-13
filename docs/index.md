@@ -43,8 +43,6 @@ Source: zhihu.com
 
 ## Index
 
-[Back to Index](#index)
-
 1. [Ch'ien / The Creative / 乾](#1-chien--the-creative)
 2. [K'un / The Receptive / 坤](#2-kun--the-receptive)
 3. [Chun / Difficulty at the Beginning / 屯](#3-chun--difficulty-at-the-beginning)
@@ -111,8 +109,10 @@ Source: zhihu.com
 64. [Wei Chi / Before Completion / 未济](#64-wei-chi--before-completion)
 
 ## 1. Ch'ien / The Creative
+[Back to Index](#index)
 
 above CH'IEN THE CREATIVE, HEAVEN
+
 below CH'IEN THE CREATIVE, HEAVEN
 
 The first hexagram is made up of six unbroken lines. These unbroken lines stand for the primal power, which is light-giving, active, strong, and of the spirit. The hexagram is consistently strong in character, and since it is without weakness, its essence is power or energy. Its image is heaven. Its energy is represented as unrestricted by any fixed conditions in space and is therefore conceived of as motion. Time is regarded as the basis of this motion. Thus the hexagram includes also the power of time and the power of persisting in time, that is, duration. The power represented by the hexagram is to be interpreted in a dual sense in terms of its action on the universe and of its action on the world of men. In relation to the universe, the hexagram expresses the strong, creative action of the Deity. In relation to the human world, it denotes the creative action of the holy man or sage, of the ruler or leader of men, who through his power awakens and develops their higher nature.
@@ -183,8 +183,10 @@ Good fortune.
 When all the lines are nines, it means that the whole hexagram is in motion and changes into the hexagram K'un, THE RECEPTIVE, whose character is devotion. The strength of the Creative and the mildness of the Receptive unite. Strength is indicated by the flight of dragons, mildness by the fact that their heads are hidden. This means that mildness in action joined to strength of decision brings good fortune.
 
 ## 2. K'un / The Receptive
+[Back to Index](#index)
 
 above K'UN THE RECEPTIVE, EARTH
+
 below K'UN THE RECEPTIVE, EARTH
 
 This hexagram is made up of broken lines only. The broken lines represents the dark, yielding, receptive primal power of yin. The attribute of the hexagram is devotion; its image is the earth. It is the perfect complement of THE CREATIVE--the complement, not the opposite, for the Receptive does not combat the Creative but completes it . It represents nature in contrast to spirit, earth in contrast to heaven, space as against time, the female-maternal as against the male-paternal. However, as applied to human affairs, the principle of this complementary relationship is found not only in the relation between man and woman, but also in that between prince and minister and between father and son. Indeed, even in the individual this duality appears in the coexistence of the spiritual world and the world of the senses. But strictly speaking there is no real dualism here, because there is a clearly defined hierarchic relationship between the two principles. In itself of course the Receptive is just as important as the Creative, but the attribute of devotion defines the place occupied by this primal power in relation to the Creative. For the Receptive must be activated and led by the Creative; then it is productive of good. Only when it abandons this position and tries to stand as an equal side by side with the Creative, does it become evil. The result then is opposition to and struggle against the Creative, which is productive of evil to both.
@@ -263,8 +265,10 @@ When nothing but sixes appears, the hexagram of THE RECEPTIVE changes into the h
 
 
 ## 3. Chun / Difficulty at the Beginning
+[Back to Index](#index)
 
 above K'AN THE ABYSMAL, WATER
+
 below CHêN THE AROUSING, THUNDER
 
 The name of the hexagram, Chun, really connotes a blade of grass pushing against an obstacle as it sprouts out of the earth--hence the meaning, "difficulty at the beginning." The hexagram indicates the way in which heaven and earth bring forth individual beings. It is their first meeting, which is beset with difficulties. The lower trigram Chên is the Arousing; its motion is upward and its image is thunder. The upper trigram K'an stands for the Abysmal, the dangerous. Its motion is downward and its image is rain. The situation points to teeming, chaotic profusion; thunder and rain fill the air. But the chaos clears up. While the Abysmal sinks, the upward movement eventually passes beyond the danger. A thunderstorm brings release from tension, and all things breathe freely again.
@@ -344,8 +348,10 @@ Bloody tears flow.
 The difficulties at the beginning are too great for some persons. They get stuck and never find their way out; they fold their hands and give up the struggle. Such resignation is the saddest of all things. Therefore Confucius says of this line: "Bloody tears flow: one should not persist in this."
 
 ## 4. Mêng / Youthful Folly
+[Back to Index](#index)
 
 above KêN KEEPING STILL, MOUNTAIN
+
 below K'AN THE ABYSMAL, WATER
 
 In this hexagram we are reminded of youth and folly in two different ways. The image of the upper trigram, Kên, is the mountain, that of the lower, K'an, is water; the spring rising at the foot of the mountain is the image of inexperienced youth. Keeping still is the attribute of the upper trigram; that of the lower is the abyss, danger. Stopping in perplexity on the brink of a dangerous abyss is a symbol of the folly of youth. However, the two trigrams also show the way of overcoming the follies of youth. Water is something that of necessity flows on. When the spring gushes forth, it does not know at first where it will go. But its steady flow fills up the deep place blocking its progress, and success is attained.
@@ -421,8 +427,10 @@ Is to prevent transgressions.
 Sometimes an incorrigible fool must be punished. He who will not heed will be made to feel. This punishment is quite different from a preliminary shaking up. But the penalty should not be imposed in anger; it must be restricted to an objective guarding against unjustified excesses. Punishment is never an end in itself but serves merely to restore order. This applies not only in regard to education but also in regard to the measures taken by a government against a populace guilty of transgressions. Governmental interference should always be merely preventive and should have as its sole aim the establishment of public security and peace.
 
 ## 5. Hsü / Waiting (Nourishment)
+[Back to Index](#index)
 
 above K'AN THE ABYSMAL, WATER
+
 below CH'IEN THE CREATIVE, HEAVEN
 
 All beings have need of nourishment from above. But the gift of food comes in its own time, and for this one must wait. This hexagram shows the clouds in the heavens, giving rain to refresh all that grows and to provide mankind with food and drink. The rain will come in its own time. We cannot make it come; we have to wait for it. The idea of waiting is further suggested by the attributes of the two trigrams--strength within, danger in from. Strength in the face of danger does not plunge ahead but bides its time, whereas weakness in the face of danger grows agitated and has not the patience to wait.
@@ -493,8 +501,10 @@ Honor them, and in the end there will be good fortune.
 The waiting is over; the danger can no longer be averted. One falls into the pit and must yield to the inevitable. Everything seems to have been in vain. But precisely in this extremity things take an unforeseen turn. Without a move on one's own part, there is outside intervention. At first one cannot be sure of its meaning: is it rescue or is it destruction? A person in this situation must keep his mind alert and not withdraw into himself with a sulky gesture of refusal, but must greet the new turn with respect. Thus he ultimately escapes the danger, and all goes well. Even happy turns of fortune often come in a form that at first seems strange to us.
 
 ## 6. Sung / Conflict
+[Back to Index](#index)
 
 above CH'IEN THE CREATIVE, HEAVEN
+
 below K'AN THE ABYSMAL, WATER
 
 The upper trigram, whose image is heaven, has an upward movement; the lower trigram, water, in accordance with its nature tends downward. Thus the two halves move away from each other, giving rise to the idea of conflict. The attribute of the Creative is strength, that of the Abysmal is danger, guile. Where cunning has force before it, there is conflict. A third indication of conflict, in terms of character, is presented by the combination of deep cunning within and fixed determination outwardly. A person of this character will certainly be quarrelsome.
@@ -574,8 +584,10 @@ Here we have someone who has carried a conflict to the bitter end and has triump
 
 
 ## 7. Shih / The Army
+[Back to Index](#index)
 
 above K'UN THE RECEPTIVE, EARTH
+
 below K'AN THE ABYSMAL, WATER
 
 This hexagram is made up of the trigrams K'an, water, and K'un, earth, and thus it symbolizes the ground water stored up in the earth. In the same way military strength is stored up in the mass of the people--invisible in times of peace but always ready for use as a source of power. The attributes of the two trig rams are danger inside and obedience must prevail outside. Of the individual lines, the one that controls the hexagram is the strong nine in the second place, to which the other lines, all yielding, are subordinate. This line indicates a commander, because it stands in the middle of one of the two trigrams. But since it is in the lower rather than the upper trigram, it represents not the ruler but the efficient general, who maintains obedience in the army by his authority.
@@ -648,8 +660,10 @@ Inferior people should not be employed.
 The war has ended successfully, victory is won, and the king divided estates and fiefs among his faithful vassals. But it is important that inferior people should not come into power. If they have helped, let them be paid off with money, but they should not be awarded lands or the privileges of rulers, lest power be abused.
 
 ## 8. Pi / Holding Together [union]
+[Back to Index](#index)
 
 above K'AN THE ABYSMAL, WATER
+
 below K'UN THE RECEPTIVE, EARTH
 
 The waters on the surface of the earth flow together wherever they can, as for example in the ocean, where all the rivers come together. Symbolically this connotes holding together and the laws that regulate it. The same idea is suggested by the fact that all the lines of the hexagram except the fifth, the place of the ruler, are yielding. The yielding lines hold together because they are influenced by a man of strong will in the leading position, a man who is their center of union. Moreover, this strong and guiding personality in turn holds together with the others, finding in them the complement of his own nature.
@@ -725,8 +739,10 @@ Misfortune.
 The head is the beginning. If the beginning is not right, there is no hope of a right ending. If we have missed the right moment for union and go on hesitating to give complete and full devotion, we shall regret the error when it is too late.
 
 ## 9. Hsiao Ch'u / The Taming Power of the Small
+[Back to Index](#index)
 
 above SUN THE GENTLE, WIND
+
 below CH'IEN THE CREATIVE, HEAVEN
 
 This hexagram means the force of the small--the power of the shadowy--that restrains, tames, impedes. A weak line in the fourth place, that of the minister, holds the five strong lines in check. In the Image it is the wind blowing across the sky. The wind restrains the clouds, the rising breath of the Creative, and makes them grow dense, but as yet is not strong enough to turn them to rain. The hexagram presents a configuration of circumstances in which a strong element is temporarily held in leash by a weak element. It is only through gentleness that this can have a successful outcome.
@@ -795,8 +811,10 @@ Misfortune comes.
 Success is at hand. The wind has driven up the rain. A fixed standpoint has been reach. This has come about through the cumulation of small effects produced by reverence for a superior character. But a success thus secured bit by bit calls for great caution. It would be a dangerous illusion for anyone to think he could presume upon it. The female principle, the weak element that has won the victory, should never persist in vaunting it--that would lead to danger. The dark power in the moon is strongest when the moon is almost full. When it is full and directly opposite the sun, its waning is inevitable. Under such circumstances one must be content with what has been achieved. To advance any further, before the appropriate time has come, would lead to misfortune.
 
 ## 10. Lü / Treading [conduct]
+[Back to Index](#index)
 
 above CH'IEN THE CREATIVE, HEAVEN
+
 below TUI THE JOYOUS, LAKE
 
 The name of the hexagram means on the one hand the right way of conducting oneself. Heaven, the father, is above, and the lake, the youngest daughter, is below. This shows the difference between high and low, upon which composure correct social conduct, depends. On the other hand the word for the name of the hexagram, TREADING, means literally treading upon something. The small and cheerful [Tui] treads upon the large and strong [Ch'ien]. The direction of movement of the two primary trigrams is upward. The fact that the strong treads on the weak is not mentioned in the Book of Changes, because it is taken for granted. For the weak to take a stand against the strong is not dangerous here, because it happened in good humor [Tui] and without presumption, so that the strong man is not irritated but takes it all in good part.
@@ -869,8 +887,10 @@ When everything is fulfilled, supreme good fortune comes.
 The work is ended. If we want to know whether good fortune will follow, we must look back upon our conduct and its consequences. If the effects are good, then good fortune is certain. No one knows himself. It is only by the consequences of his actions, by the fruit of his labors, that a man can judge what he is to expect.
 
 ## 11. T'ai / Peace
+[Back to Index](#index)
 
 above K'UN THE RECEPTIVE, EARTH
+
 below CH'IEN THE CREATIVE, HEAVEN
 
 The Receptive, which moves downward, stands above; the Creative, which moves upward, is below. Hence their influences meet and are in harmony, so that all living things bloom and prosper. This hexagram belongs to the first month (February-March), at which time the forces of nature prepare the new spring.
@@ -949,8 +969,10 @@ Perseverance brings humiliation.
 The change alluded to in the middle of the hexagram has begun to take place. The wall of the town sinks back into the moat from which it was dug. The hour of doom is at hand. When matters have come to this pass, we should submit to fate and not try to stave it off by violent resistance. The one recourse left us is to hold our own within our intimate circle. Should we persevere in trying to resist the evil in the usual way, our collapse would only be more complete, and humiliation would be the result.
 
 ## 12. P'i / Standstill [Stagnation]
+[Back to Index](#index)
 
 above CH'IEN THE CREATIVE, HEAVEN
+
 below K'UN THE RECEPTIVE, EARTH
 
 This hexagram is the opposite of the preceding one. Heaven is above, drawing farther and farther away, while the earth below sinks farther into the depths. The creative powers are not in relation. It is a time of standstill and decline. This hexagram is linked with the seventh month (August-September), when the year has passed its zenith and autumnal decay is setting in.
@@ -1023,8 +1045,10 @@ First standstill, then good fortune.
 The standstill does not last forever. However, it does not cease of its own accord; the right man is needed to end it. This is the difference between a state of peace and a state of stagnation. Continuous effort is necessary to maintain peace: left to itself it would change into stagnation and disintegration. The time of disintegration, however, does not change back automatically to a condition of peace and prosperity; effort must be put forth in order to end it. This shows the creative attitude that man must take if the world is to be put in order.
 
 ## 13. T'ung Jên / Fellowship with Men
+[Back to Index](#index)
 
 above CH'IEN THE CREATIVE, HEAVEN
+
 below LI THE CLINGING, FLAME
 
 The image of the upper trigram Ch'ien is heaven, and that of the lower, Li, is flame. It is the nature of fire to flame up to the heaven. This gives the idea of fellowship. IT is the second line that, by virtue of its central character, unites the five strong lines around it. This hexagram forms a complement to Shih, THE ARMY
@@ -1100,8 +1124,10 @@ The warm attachment that springs from the heart is lacking here. We are by this 
 
 
 ## 14. Ta Yu / Possession in Great Measure
+[Back to Index](#index)
 
 above LI THE CLINGING, FLAME
+
 below CH'IEN THE CREATIVE, HEAVEN
 
 The fire in heaven above shines far, and all things stand out in the light and become manifest. The weak fifth line occupies the place of honor and all the strong lines are in accord with it.All things come to the man who is modest and kind in a high position.
@@ -1176,8 +1202,10 @@ In the fullness of possession and at the height of power, one remains modest and
 To bless means to help. Heaven helps the man who is devoted; men help the man who is true. He who walks in truth and is devoted in his thinking, and furthermore reveres the worthy, is blessed by heaven. He has good fortune, and there is nothing that would not further.
 
 ## 15. Ch'ien / Modesty
+[Back to Index](#index)
 
 above K'UN THE RECEPTIVE, EARTH
+
 below KEN KEEPING STILL, MOUNTAIN
 
 This hexagram is made up of the trigrams Kên, Keeping Still, mountain, and K'un. The mountain is the youngest son of the Creative, the representative of heaven and earth. It dispenses the blessings of heaven, the clouds and rain that gather round its summit, and thereafter shines forth radiant with heavenly light. This shows what modesty is and how it functions in great and strong men. K'un, the earth, stands above. Lowliness is a quality of the earth: this is the very reason why it appears in this hexagram as exalted, by being placed above the mountain. This shows how modesty functions in lowly, simple people: they are lifted up by it.
@@ -1250,8 +1278,10 @@ To chastise one's own city and one's country.
 A person who is really sincere in his modesty must make it show in reality. He must proceed with great energy in this. When enmity arises nothing is easier than to lay the blame on another. A weak man takes offense perhaps, and draws back, feeling self-pity; he thinks that it is modesty that keeps him from defending himself. Genuine modesty sets one to creating order and inspires one to begin by disciplining one's own ego and one's immediate circle. Only through having the courage to marshal one's armies against oneself, will something forceful really be achieved.
 
 ## 16. Yü / Enthusiasm
+[Back to Index](#index)
 
 above CHêN THE AROUSING, THUNDER
+
 below K'UN THE RECEPTIVE, EARTH
 
 The strong line in the fourth place, that of the leading official, meets with response and obedience from all the other lines, which are all weak. The attribute of the upper trigram, Chên, is movement; the attributes of K'un, the lower, are obedience and devotion. This begins a movement that meets with devotion and therefore inspires enthusiasm, carrying all with it. Of great importance, furthermore, is the law of movement along the line of least resistance, which in this hexagram is enunciated as the law for natural events and for human life.
@@ -1333,8 +1363,10 @@ There is no blame.
 It is a bad thing for a man to let himself be deluded by enthusiasm. But if this delusion has run its course, and he is still capable of changing, then he is freed of error. A sober awakening from false enthusiasm is quite possible and very favorable.
 
 ## 17. Sui / Following
+[Back to Index](#index)
 
 above TUI THE JOYOUS, LAKE
+
 below CHêN THE AROUSING, THUNDER
 
 The trigram Tui, the Joyous, whose attribute is gladness, is above; Chên, the Arousing, which has the attribute of movement, is below. Joy in movement induces following. The Joyous is the youngest daughter, while the Arousing is the eldest son. An older man defers to a young girl and shows her consideration. By this he moves her to follow him.
@@ -1408,8 +1440,10 @@ To the Western Mountain.
 This refers to a man, an exalted sage, who has already put the turmoil of the world behind him. But a follower appears who understands him and is not to be put off. So the sage comes back into the world and aids the other in his work. Thus there develops an eternal tie between the two. The allegory is chosen from the annals of the Chou dynasty. The rulers of this dynasty honored men who had served them well by awarding them a place in the royal family's temple of ancestors on the Western Mountain. In this way they were regarded as sharing in the destiny of the ruling family.
 
 ## 18. Ku / Work on what has been spoiled [ Decay ]
+[Back to Index](#index)
 
 above Kên KEEPING STILL, MOUNTAIN
+
 below Sun THE GENTLE, WIND
 
 The Chinese character ku represents a bowl in whose contents worms are breeding. This means decay. IT is come about because the gentle indifference in the lower trigram has come together with the rigid inertia of the upper, and the result is stagnation. Since this implies guilt, the conditions embody a demand for removal of the cause. Hence the meaning of the hexagram is not simply "what has been spoiled" but "work on what has been spoiled".
@@ -1477,8 +1511,10 @@ Sets himself higher goals.
 Not every man has an obligation to mingle in the affairs of the world. There are some who are developed to such a degree that they are justified in letting the world go its own way and refusing to enter public life with a view to reforming it. But this does not imply a right to remain idle or to sit back and merely criticize. Such withdrawal is justified only when we strive to realize in ourselves the higher aims of mankind. For although the sage remains distant from the turmoil of daily life, he creates incomparable human values for the future.
 
 ## 19. Lin / Approach
+[Back to Index](#index)
 
 above K'UN THE RECEPTIVE, EARTH
+
 below TUI THE JOYOUS, LAKE
 
 The Chinese word lin has a range of meanings that is not exhausted by any single word of another language. The ancient explanations in the Book of Changes give as its first meaning, "becoming great." What becomes great are the two strong lines growing into the hexagram from below; the light-giving power expands with them. The meaning is then further extended to include the concept of approach, especially the approach of what is lower. Finally the meaning includes the attitude of condescension of a man in high position toward the people, and in general the setting to work on affairs. This hexagram is linked with the twelfth month (January-February), when after the winter solstice, the light power begins to ascend again.
@@ -1552,8 +1588,10 @@ Good fortune. No blame.
 A sage who has put the world behind him and who in spirit has already withdrawn from life may, under certain circumstances, decide to return once more to the here and now and to approach other men. This means great good fortune for the men whom he teaches and helps. And for him this great hearted humbling of himself is blameless.
 
 ## 20. Kuan / Contemplation (View)
+[Back to Index](#index)
 
 above SUN THE GENTLE, WIND
+
 below K'UN THE RECEPTIVE, EARTH
 
 A slight variation of tonal stress gives the Chinese name for this hexagram a double meaning. It means both contemplating and being seen, in the sense of being an example. These ideas are suggested by the fact that the hexagram can be understood as picturing a type of tower characteristic of ancient China.
@@ -1617,8 +1655,10 @@ The superior man is without blame.
 While the preceding line represents a man who contemplates himself, here in the highest place everything that is personal, related to the ego, is excluded. The picture is that of a sage who stands outside the affairs of the world. Liberated from his ego, he contemplates the laws of life and so realizes that knowing how to become free of blame is the highest good.
 
 ## 21. Shih Ho / Biting Through
+[Back to Index](#index)
 
 above LI THE CLINGING, FIRE
+
 below CHêN THE AROUSING, THUNDER
 
 This hexagram represents an open mouth (cf. hexagram
@@ -1697,8 +1737,10 @@ Misfortune.
 In contrast to the first line, this line refers to a man who is incorrigible. His punishment is the wooden cangue, and his ears disappear under it-that is to say, he is deaf to warnings. This obstinacy leads to misfortune.
 
 ## 22. Pi / Grace
+[Back to Index](#index)
 
 above KêN KEEPING STILL, MOUNTAIN
+
 below LI THE CLINGING, FIRE
 
 This hexagram shows a fire that breaks out of the secret depths of the earth and, blazing up, illuminates and beautifies the mountain, the heavenly heights. Grace-beauty of form-is necessary in any union if it is to be well ordered and pleasing rather than disordered and chaotic.
@@ -1765,8 +1807,10 @@ Simple grace. No blame.
 Here at the highest stage of development all ornament is discarded. Form no longer conceals content but brings out its value to the full. Perfect grace consists not in exterior ornamentation of the substance, but in the simple fitness of its form.
 
 ## 23. Po / Splitting Apart
+[Back to Index](#index)
 
 above KêN KEEPING STILL, MOUNTAIN
+
 below LI THE CLINGING, FIRE
 
 The dark lines are about to mount upward and overthrow the last firm, light line by exerting a disintegrating influence on it. The inferior, dark forces overcome what is superior and strong, not by direct means, but by undermining it gradually and imperceptibly, so that it finally collapses. The lines of the hexagram present the image of a house, the top line being the roof, and because the roof is being shattered the house collapses. The hexagram belongs to the ninth month (October-November). The yin power pushes up ever more powerfully and is about to supplant the yang power altogether.
@@ -1833,8 +1877,10 @@ The house of the inferior man is split apart.
 Here the splitting apart reaches its end. When misfortune has spent itself, better times return. The seed of the good remains, and it is just when the fruit falls to the ground that food sprouts anew from its seed. The superior man again attains influence and effectiveness. He is supported by public opinion as if in a carriage. But the inferior man's wickedness is visited upon himself. His house is split apart. A law of nature is at work here. Evil is not destructive to the good alone but inevitably destroys itself as well. For evil, which lives solely by negation, cannot continue to exist on its own strength alone. The inferior man himself fares best when held under control by a superior man.
 
 ## 24. Fu / Return (The Turning Point)
+[Back to Index](#index)
 
 above K'UN THE RECEPTIVE, EARTH
+
 below CHêN THE AROUSING, THUNDER
 
 The idea of a turning point arises from the fact that after the dark lines have pushed all of the light lines upward and out of the hexagram, another light line enters the hexagram from below. The time of darkness is past. The winter solstice brings the victory of light. This hexagram is linked with the eleventh month, the month of the solstice (December-January).
@@ -1910,8 +1956,10 @@ It will not be possible to attack again.
 If a man misses the right time for return, he meets with misfortune. The misfortune has its inner cause in a wrong attitude toward the world. The misfortune coming upon him for without results from this wrong attitude. What is pictured here is blind obstinacy and the judgment that is visited upon it.
 
 ## 25. Wu Wang / Innocence (The Unexpected)
+[Back to Index](#index)
 
 above CH'IEN THE CREATIVE, HEAVEN
+
 below CHêN THE AROUSING, THUNDER
 
 Ch'ien, heaven is above; Chên, movement, is below. The lower trigram Chên is under the influence of the strong line it has received form above, from heaven. When, in accord with this, movement follows the law of heaven, man is innocent and without guile. His mind is natural and true, unshadowed by reflection or ulterior designs. For wherever conscious purpose is to be seen, there the truth and innocence of nature have been lost. Nature that is not directed by the spirit is not true but degenerate nature. Starting out with the idea of the natural, the train of thought in part goes somewhat further and thus the hexagram includes also the idea of the fundamental or unexpected.
@@ -1986,8 +2034,10 @@ Nothing furthers.
 When, in a given situation, the time is not ripe for further progress, the best thing to do is to wait quietly, without ulterior designs. If one acts thoughtlessly and tries to push ahead in opposition to fate, success will not be achieved.
 
 ## 26. Ta Ch'u / The Taming Power of the Great
+[Back to Index](#index)
 
 above KêN KEEPING STILL, MOUNTAIN
+
 below CH'IEN THE CREATIVE, HEAVEN
 
 The Creative is tamed by Kên, Keeping Still. This produces great power, a situation in contrast to that of the ninth hexagram, Hsiao Ch'u, THE TAMING POWER OF THE SMALL, in which the Creative is tamed by the Gentle alone. There one weak line must tame five strong lines, but here four strong lines are restrained by two weak lines; in addition to a minister, there is a prince, and the restraining power therefore is afar stronger. The hexagram has a threefold meaning, expressing different aspects of the concept "Holding firm." Heaven within the mountain gives the idea of holding firm in the sense of holding together; the trigram Kên which holds the trigram ch'ien still, gives the idea of holding firm in the sense of holding back; the third idea is that of holding firm in the sense of caring for and nourishing. This last is suggested by the fact that a strong line at the top, which is the ruler of the hexagram, is honored and tended as a sage. The third of these meanings also attaches specifically to this strong line at the top, which represents the sage.
@@ -2060,8 +2110,10 @@ Success.
 The time of obstruction is past. The energy long dammed up by inhibition forces its way out and achieves great success. This refers to a man who is honored by the ruler and whose principles now prevail and shape the world.
 
 ## 27. I / Corners of the Mouth (Providing Nourishment)
+[Back to Index](#index)
 
 above KêN KEEPING STILL, MOUNTAIN
+
 below CHêN THE AROUSING, THUNDER
 
 This hexagram is a picture of an open mouth; above and below are firm lines of the lips, and between them the opening. Starting with the mouth, through which we take food for nourishment, the thought leads to nourishment itself. Nourishment of oneself, specifically of the body, is represented in the three lower lines, while the three upper lines represent nourishment and care of others, in a higher, spiritual sense.
@@ -2148,8 +2200,10 @@ It furthers one to cross the great water.
 This describes a sage of the highest order, from whom emanate all influences that provide nourishment for others. Such a position brings with it heavy responsibility. If he remains conscious of this fact, he has good fortune and may confidently undertake even great and difficult labors, such as crossing the great water. These undertakings bring general happiness for him and for all others.
 
 ## 28. Ta Kuo / Preponderance of the Great
+[Back to Index](#index)
 
 above TUI THE JOYOUS, LAKE
+
 below SUN THE GENTLE, WIND, WOOD
 
 This hexagram consists of four strong lines inside and two weak lines outside. When the strong are outside and the weak inside, all is well and there is nothing out of balance, nothing extraordinary in the situation. Here, however, the opposite is the case. The hexagram represents a beam that is thick and heavy in the middle but too weak at the ends. This is a condition that cannot last; it must be changed, must pass, or misfortune will result.
@@ -2225,8 +2279,10 @@ Misfortune. No blame.
 Here is a situation in which the unusual has reached a climax. One is courageous and wishes to accomplish one's task, no matter what happens. This leads into danger. The water rises over one's head. This is the misfortune. But one incurs no blame in giving up one's life that the good and the right may prevail. There are things that are more important than life.
 
 ## 29. K'an / The Abysmal (Water)
+[Back to Index](#index)
 
 above K'AN THE ABYSMAL, WATER
+
 below K'AN THE ABYSMAL, WATER
 
 This hexagram consists of a doubling of the trigram K'an. It is one of the eight hexagrams in which doubling occurs. The trigram K'an means a plunging in. A yang line has plunged in between two yin lines and is closed in by them like water in a ravine. The trigram K'an is also the middle son. The Receptive has obtained the middle line of the Creative, and thus K'an develops. As an image it represents water, the water that comes from above and is in motion on earth in streams and rivers, giving rise to all life on earth. In man's world K'an represents the heart, the soul locked up within the body, the principle of light inclosed in the dark--that is, reason. The name of the hexagram, because the trigram is doubled, has the additional meaning, "repetition of danger." Thus the hexagram is intended to designate an objective situation to which one must become accustomed, not a subjective attitude. For danger due to a subjective attitude means either foolhardiness or guile. Hence too a ravine is used to symbolize danger; it is a situation in which a man is in the same pass as the water in a ravine, and, like the water, he can escape if he behaves correctly.
@@ -2306,8 +2362,10 @@ A man who in the extremity of danger has lost the right way and is irremediably 
 
 
 ## 30. Li / The Clinging, Fire
+[Back to Index](#index)
 
 above LI THE CLINGING, FIRE
+
 below LI THE CLINGING, FIRE
 
 This hexagram is another double sign. The trigram Li means "to cling to something," and also "brightness." A dark line clings to two light lines, one above and one below--the image of an empty space between two strong lines, whereby the two strong lines are made bright. The trigram represents the middle daughter. The Creative has incorporated the central line of the Receptive, and thus Li develops. As an image, it is fire. Fire has no definite form but clings to the burning object and thus is bright. As water pours down from heaven, so fire flames up from the earth. While K'an means the soul shut within the body, Li stands for nature in its radiance.
@@ -2377,8 +2435,10 @@ And take captive the followers. No blame.
 It is not the purpose of chastisement to impose punishment blindly but to create discipline. Evil must be cured at its roots. To eradicate evil in political life, it is best to kill the ringleaders and spare the followers. In educating oneself it is best to root out bad habits and tolerate those that are harmless. For asceticism that is too strict, like sentences of undue severity, fails in its purpose.
 
 ## 31. Hsien / Influence (Wooing)
+[Back to Index](#index)
 
 above TUI THE JOYOUS, LAKE
+
 below KêN KEEPING STILL, MOUNTAIN
 
 The name of the hexagram means "universal," "general," and in a figurative sense "to influence," "to stimulate." The upper trigram is Tui, the Joyous; the lower is Kên, Keeping still. By its persistent, quiet influence, the lower, rigid trigram stimulates the upper, weak trigram, which responds to this stimulation cheerfully and joyously. Kên, the lower trigram, is the youngest son; the upper, Tui, is the youngest daughter. Thus the universal mutual attraction between the sexes is represented. In courtship, the masculine principle must seize the initiative and place itself below the feminine principle. Just as the first part of book 1 begins with the hexagrams of heaven and earth, the foundations of all that exists, the second part begins with the hexagrams of courtship and marriage, the foundations of all social relationships.
@@ -2453,8 +2513,10 @@ The influence shows itself in the jaws, cheeks, and tongue.
 The most superficial way of trying to influence others is through talk that has nothing real behind it. The influence produced by such mere tongue wagging must necessarily remain insignificant. Hence no indication is added regarding good or bad fortune.
 
 ## 32. Hêng / Duration
+[Back to Index](#index)
 
 above CHEN THE AROUSING, THUNDER
+
 below SUN THE GENTLE, WIND
 
 The strong trigram Chên is above, the weak trigram Sun below. This hexagram is the inverse of the preceding one. In the latter we have influence, here we have union as an enduring condition. The two images are thunder and wind, which are likewise constantly paired phenomena. The lower trigram indicates gentleness within; the upper, movement without. In the sphere of social relationships, the hexagram represents the institution of marriage as the enduring union of the sexes. During courtship the young man subordinates himself to the girl, but in marriage, which is represented by the coming together of the eldest son and the eldest daughter, the husband is the directing and moving force outside, while the wife, inside, is gentle and submissive.
@@ -2519,8 +2581,10 @@ Restlessness as an enduring condition brings misfortune.
 There are people who live in a state of perpetual hurry without ever attaininginner composure. Restlessness not only prevents all thoroughness but actuallybecomes a danger if it is dominant in places of authority.
 
 ## 33. TUN / Retreat
+[Back to Index](#index)
 
 above CH'IEN THE CREATIVE, HEAVEN
+
 below KêN KEEPING STILL, MOUNTAIN
 
 The power of the dark is ascending. The light retreats to security, so that the dark cannot encroach upon it. This retreat is a matter not of man's will but of natural law. Therefore in this case withdrawal is proper; it is the correct way to behave in order not to exhaust one's forces. In the calendar this hexagram is linked with the sixth month (July-August), in which the forces of winter are already showing their influence.
@@ -2588,6 +2652,7 @@ Cheerful retreat. Everything serves to further.
 The situation is unequivocal. Inner detachment has become an established fact, and we are at liberty to depart. When one sees the way ahead thus clearly, free of all doubt, a cheerful mood sets in, and one chooses what is right without further thought. Such a clear path ahead always leads to the good.
 
 ## 34. Ta Chuang / The Power of the Great
+[Back to Index](#index)
 
 above CHêN THE AROUSING, THUNDER
 
@@ -2672,8 +2737,10 @@ If one notes the difficulty, this brings good fortune.
 If we venture too far we come to a deadlock, unable either to advance or to retreat and whatever we do merely serves to complicate thing further. Such obstinacy leads to insuperable difficulties. But if, realizing the situation, we compose ourselves and decide not to continue, everything will right itself in time.
 
 ## 35. Chin / Progress
+[Back to Index](#index)
 
 above LI THE CLINGING, FIRE
+
 below K'UN THE RECEPTIVE, EARTH
 
 The hexagram represents the sun rising over the earth. It is therefore the symbol of rapid, easy progress, which at the same time means ever widening expansion and clarity.
@@ -2755,8 +2822,10 @@ Perseverance brings humiliation.
 Making progress with lowered horns-i.e., acting on the offensive-is permissible, in times like those referred to here, only in dealing with the mistakes of one's own people. Even then we must bear in mind that proceeding on the offensive may always be dangerous. In this way we avoid the mistakes that otherwise threaten, and succeed in what we set out to do. On the other hand, perseverance in such over energetic behavior, especially toward persons with whom there is no close connection, will lead to humiliation.
 
 ## 36. Ming I / Darkening of the light
+[Back to Index](#index)
 
 above K'UN THE RECEPTIVE, EARTH
+
 below LI THE CLINGING, FIRE
 
 Here the sun has sunk under the earth and is therefore darkened. The name of the hexagram means literally "wounding of the bright"; hence the individual lines contain frequent references to wounding. The situation is the exact opposite of that in the foregoing hexagram. In the latter a wise man at the head of affairs has able helpers, and in company with them makes progress; here a man of dark nature is in a position of authority and brings harm to the wise and able man.
@@ -2832,8 +2901,10 @@ Then plunged into the depths of the earth.
 Here the climax of the darkening is reached. The dark power at first held so high a place that it could wound all who were on the side of good and of the light. But in the end it perishes of its own darkness, for evil must itself fall at the very moment when it has wholly overcome the good, and thus consumed the energy to which it owed its duration.
 
 ## 37. Chia Jên / The Family [The Clan]
+[Back to Index](#index)
 
 above SUN THE GENTLE, WIND
+
 below LI THE CLINGING, FIRE
 
 The hexagram represents the laws obtaining within the family. The strong line at the top represents the father, the lowest the son. The strong line in the fifth place represents the husband, the yielding second line the wife. On the other hand, the two strong lines in the fifth and the third place represent two brothers, and the two weak lines correlated with them in the fourth and the second place stand for their respective wives. Thus all the connections and relationships within the family find their appropriate expression. Each individual line has the character according with its place. The fact that a strong line occupies the sixth place-where a weak line might be expected-indicates very clearly the strong leadership that must come from the head of the family. The line is to be considered here not in its quality as the sixth but in its quality as the top line. THE FAMILY shows the laws operative within the household that, transferred to outside life, keep the state and the world in order. The influence that goes out from within the family is represented by the symbol of the wind created by fire.
@@ -2903,8 +2974,10 @@ In the end good fortune comes.
 In the last analysis, order within the family depends on the character of the master of the house. If he cultivates his personality so that it works impressively through the force of inner truth, all goes well with the family. In a ruling position one must of his own accord assume responsibility.
 
 ## 38. K'uei / Opposition
+[Back to Index](#index)
 
 above LI THE CLINGING, FLAME
+
 below TUI THE JOYOUS, LAKE
 
 This hexagram is composed of the trigram Li above, i.e., flame, which burns upward, and Tui below, i.e., the lake, which seeps downward. These two movements are indirect contrast. Furthermore, LI is the second daughter and Tui the youngest daughter, and although they live in the same house they belong to different men; hence their wills are not the same but are divergently directed.
@@ -2989,8 +3062,10 @@ As one goes, rain falls; then good fortune comes.
 Here the isolation is due to misunderstanding; it is brought about not by outer circumstances but by inner conditions. A man misjudges his best friends, taking them to be as unclean as a dirty pig in and as dangerous as a wagon full of devils. He adopts an attitude of defense. But in the end, realizing his mistake, he lays aside the bow, perceiving that the other is approaching with the best intentions for the purpose of close union. Thus the tension is relieved. The union resolves the tension, just as falling rain relieves the sultriness preceding a thunderstorm. All goes well, for just when opposition reaches its climax it changes over to its antithesis.
 
 ## 39. Chien / Obstruction
+[Back to Index](#index)
 
 above K'AN THE ABYSMAL, WATER
+
 below KêN KEEPING STILL, MOUNTAIN
 
 The hexagram pictures a dangerous abyss lying before us and a steep, inaccessible mountain rising behind us. We are surrounded by obstacles; at the same time, since the mountain has the attribute of keeping still, there is implicit a hint as to how we can extricate ourselves. The hexagram represents obstructions that appear in the course of time but that can and should be overcome. Therefore all the instruction given is directed to overcoming them.
@@ -3061,8 +3136,10 @@ It furthers one to see the great man.
 This refers to a man who has already left the world and its tumult behind him. When the time of obstructions arrives, it might seem that the simplest thing for him to do would be to turn his back upon the world and take refuge in the beyond. But this road is barred to him. He must not seek his own salvation and abandon the world to its adversity. Duty calls him back once more into the turmoil of life. Precisely because of his experience and inner freedom, he is able to create something both great and complete that brings good fortune. And it is favorable to see the great man in alliance with whom one can achieve the work of rescue.
 
 ## 40. Hsieh / Deliverance
+[Back to Index](#index)
 
 above CHêN THE AROUSING, THUNDER
+
 below K'AN THE ABYSMAL, WATER
 
 Here the movement goes out of the sphere of danger. The obstacle has been removed, the difficulties are being resolved. Deliverance is not yet achieved; it is just in its beginning, and the hexagram represents its various stages.
@@ -3141,8 +3218,10 @@ The hawk on a high wall is the symbol of a powerful inferior in a high position 
 The hawk is the object of the hunt; bow and arrow are the tools and means. The marksman is man (who must make proper use of the means to his end). The superior man contains the means in his own person. He bides his time and then acts. Why then should not everything go well? He acts and is free. Therefore all he has to do is to go forth, and he takes his quarry. This is how a man fares who acts after he has made ready the means.
 
 ## 41. Sun / Decrease
+[Back to Index](#index)
 
 above KêN KEEPING STILL, MOUNTAIN
+
 below TUI THE JOYOUS, LAKE
 
 This hexagram represents a decrease of the lower trigram in favor of the upper, because the third line, originally strong, has moved up to the top, and the top line, originally weak, has replaced it. What is below is decreased to the benefit of what is above. This is out-and-out decrease. If the foundations of a building are decreased in strength and the upper walls are strengthened, the whole structure loves its stability. Likewise, a decrease in the prosperity of the people in favor of the government is out-and-out decrease. And the entire theme of the hexagram is directed to showing how this shift of wealth can take place without causing the sources of wealth can take place without causing the sources of wealth in the nation and its lower classes to fail.
@@ -3230,8 +3309,10 @@ But no longer has a separate home.
 There are people who dispense blessings to the whole world. Every increase in power that comes to them benefits the whole of mankind and therefore does not bring decrease to others. Through perseverance and zealous work a man wins success and finds helpers as they are needed. But what he accomplishes is not a limited private advantage; it is a public good and available to everyone.
 
 ## 42. I / Increase
+[Back to Index](#index)
 
 above SUN THE GENTLE, WIND
+
 below CHêN THE AROUSING, THUNDER
 
 The idea of increase is expressed in the fact that the strong lowest line of the upper trigram has sunk down and taken its place under the lower trigram. This conception also expresses the fundamental idea on which the Book of Changes is based. To rule truly is to serve. A sacrifice of the higher element that produces an increase of the lower is called an out-and-out increase: it indicates the spirit that alone has power to help the world.
@@ -3317,8 +3398,10 @@ The meaning here is that through renunciation those in high place should bring i
 The superior man sets his person at rest before he moves; he composes his mind before he speaks; he makes his relations firm before he asks for something. By attending to these three matters, the superior man gains complete security. But if a man is brusque in his movements, others will not cooperate. If he is agitated in his word, they awaken no echo in others. If he asks for something without having fist established relations, it will not be given to him. If no one is with him, those who would harm him draw near.
 
 ## 43. Kuai / Break-through (Resoluteness)
+[Back to Index](#index)
 
 above TUI THE JOYOUS, LAKE
+
 below CH'IEN THE CREATIVE, HEAVEN
 
 This hexagram signifies on the one hand a break-through after a long accumulation of tension, as a swollen river breaks through its dikes, or in the manner of a cloudburst. On the other hand, applied to human conditions, it refers to the time when inferior people gradually begin to disappear. Their influence is on the wane; as a result of resolute action, a change in conditions occurs, a break-through. The hexagram is linked with the third month [April-May].
@@ -3405,8 +3488,10 @@ In the end misfortune comes.
 Victory seems to have been achieved. There remains merely a remnant of the evil resolutely to be eradicated as the time demands. Everything looks easy. Just there, however, lies the danger. If we are not on guard, evil will succeed in escaping by means of concealment, and when it has eluded us new misfortunes will develop from the remaining seeds, for evil does not die easily. So too in dealing with the evil in own's own character, one must go to work with thoroughness. If out of carelessness anything were to be overlooked, new evil would arise from it.
 
 ## 44. Kou / Coming to Meet
+[Back to Index](#index)
 
 above CH'IEN THE CREATIVE, HEAVEN
+
 below SUN THE GENTLE, WIND
 
 This hexagram indicates a situation in which the principle of darkness, after having been eliminated, furtively and unexpectedly obtrudes again from within and below. Of its own accord the female principle comes to meet the male. It is an unfavorable and dangerous situation, and we must understand and promptly prevent the possible consequences. The hexagram is linked with the fifth month [June-July], because at the summer solstice the principle of darkness gradually becomes ascendant again.
@@ -3478,8 +3563,10 @@ Humiliation. No blame.
 When a man has withdrawn from the world, its tumult often becomes unbearable to him. There are many people who in a noble pride hold themselves aloof from all that is low and rebuff it brusquely wherever it comes to meet them. Such persons are reproached for being proud and distant, but since active duties no longer hold them to the world, this does not greatly matter. They know how to bear the dislike of the masses with composure.
 
 ## 45. Ts'ui / Gathering Together [Massing]
+[Back to Index](#index)
 
 above TUI THE JOYOUS, LAKE
+
 below K'UN THE RECEPTIVE, EARTH
 
 This hexagram is related in form and meaning to Pi, HOLDING TOGETHER
@@ -3571,8 +3658,10 @@ No blame.
 It may happen that an individual would like to ally himself with another, but his good intentions are misunderstood. Then he becomes sad and laments. But this is the right course. For it may cause the other person to come to his senses, so that the alliance that has been sought and so painfully missed is after all achieved.
 
 ## 46. Shêng / Pushing Upward
+[Back to Index](#index)
 
 above K'UN THE RECEPTIVE, EARTH
+
 below SUN THE GENTLE, WIND, WOOD
 
 The lower trigram, Sun, represents wood, and the upper, K'un, means the earth. Linked with this is the idea that wood in the earth grows upward. In contrast to the meaning of Chin, PROGRESS
@@ -3647,8 +3736,10 @@ To be unremittingly persevering.
 He who pushes upward blindly deludes himself. He knows only advance, not retreat. But this means exhaustion. In such a case it is important to be constantly mindful that one must be conscientious and consistent and must remain so. Only thus does one become free of blind impulse, which is always harmful.
 
 ## 47. K'un / Oppression (Exhaustion)
+[Back to Index](#index)
 
 above TUI THE JOYOUS, LAKE
+
 below K'AN THE ABYSMAL, WATER
 
 The lake is above, water below; the lake is empty, dried up. Exhaustion is expressed in yet another way: at the top, a dark line is holding down two light line; below, a light line is hemmed in between two dark ones. The upper trigram belongs to the principle of darkness, the lower to the principle of light. Thus everywhere superior men are oppressed and held in restraint by inferior men.
@@ -3734,8 +3825,10 @@ Good fortune comes.
 A man is oppressed by bonds that can easily be broken. The distress is drawing to an end. But he is still irresolute; he is still influenced by the previous condition and fears that he may have cause for regret if he makes a move. But as soon as he grasps the situation, changes this mental attitude, and makes a firm decision, he masters the oppression.
 
 ## 48. Ching / The Well
+[Back to Index](#index)
 
 above K'AN THE ABYSMAL, WATER
+
 below SUN THE GENTLE, WIND, WOOD
 
 Wood is below, water above. The wood goes down into the earth to bring up water. The image derives from the pole-and-bucket well of ancient China. The wood represents not the buckets, which in ancient times were made of clay, but rather the wooden poles by which the water is hauled up from the well. The image also refers to the world of plants, which lift water out of the earth by means of their fibers. The well from which water is drawn conveys the further idea of an inexhaustible dispensing of nourishment.
@@ -3814,8 +3907,10 @@ Supreme good fortune.
 The well is there fore all. No one is forbidden to take water from it. No matter how many come, all find what they need, for the well is dependable. It has a spring and never runs dry. Therefore it is a great blessing to the whole land. The same is true of the really great man, whose inner wealth is inexhaustible; the more that people draw from him, the greater his wealth becomes.
 
 ## 49. Ko / Revolution (Molting)
+[Back to Index](#index)
 
 above TUI THE JOYOUS, LAKE
+
 below LI THE CLINGING, FIRE
 
 The Chinese character for this hexagram means in its original sense an animal's pelt, which is changed in the course of the year by molting. From this word is carried over to apply to the "moltings" in political life, the great revolutions connected with changes of governments. The two trigrams making up the hexagram are the same two that appear in K'uei, OPPOSITION
@@ -3897,8 +3992,10 @@ To remain persevering brings good fortune.
 After the large and fundamental problems are settled, certain minor reforms, and elaborations of these, are necessary. These detailed reforms may be likened to the equally distinct but relatively small marks of the panther's coat. As a consequence, a change also takes place among the inferior people. In conformity with the new order, they likewise "molt." This molting, it is true, does not go very deep, but that is not to be expected. We must be satisfied with the attainable. If we should go too far and try to achieve too much, it would lead to unrest and misfortune. For the object of a great revolution is the attainment of clarified, secure conditions ensuring a general stabilization on the basis of what is possible at the moment.
 
 ## 50. Ting / The Caldron
+[Back to Index](#index)
 
 above LI THE CLINGING, FIRE
+
 below SUN THE GENTLE, WIND, WOOD
 
 The six lines construct the image of Ting, THE CALDRON; at the bottom are the legs, over them the belly, then come the ears (handles), and at the top the carrying rings. At the same time, the image suggests the idea of nourishment. The ting, cast of bronze, was the vessel that held the cooked viands in the temple of the ancestors and at banquets. The heads of the family served the food from the ting into the bowls of the guests. THE WELL
@@ -3982,8 +4079,10 @@ In the preceding line the carrying rings are described as golden, to denote thei
 
 
 ## 51. Chên / The Arousing (Shock, Thunder)
+[Back to Index](#index)
 
 above CHêN THE AROUSING, THUNDER
+
 below CHêN THE AROUSING, THUNDER
 
 The hexagram Chên represents the eldest son, who seizes rule with energy and power. A yang line develops below two yin lines and presses upward forcibly. This movement is so violent that it arouses terror. It is symbolized by thunder, which bursts forth from the earth and by its shock causes fear and trembling.
@@ -4068,8 +4167,10 @@ One's comrades have something to talk about.
 When inner shock is at its height, it robs a man of reflection and clarity of vision. In such a state of shock it is of course impossible to act with presence of mind. Then the right thing is to keep still until composure and clarity are restored. But this a man can do only when he himself is not yet infected by the agitation, although its disastrous effects are already visible in those around him. If he withdraws from the affair in time, he remains free of mistakes and injury. But his comrades, who no longer heed any warning, will in their excitement certainly be displeased with him. However, he must not take this into account.
 
 ## 52. Kên / Keeping Still, Mountain
+[Back to Index](#index)
 
 above KêN KEEPING STILL, MOUNTAIN
+
 below KêN KEEPING STILL, MOUNTAIN
 
 The image of this hexagram is the mountain, the youngest son of heaven and earth. The male principle is at the top because it strives upward by nature; the female principle is below, since the direction of its movement has come to its normal end. In its application to man, the hexagram turns upon the problem of achieving a quiet heart. It is very difficult to bring quiet to the heart. While Buddhism strives for rest through an ebbing away of all movement in nirvana, the Book of Changes holds that rest is merely a state of polarity that always posits movement as its complement. Possibly the words of the text embody directions for the practice of yoga.
@@ -4150,8 +4251,10 @@ Good fortune.
 This marks the consummation of the effort to attain tranquillity. One is at rest, not merely in a small, circumscribed way in regard to matters of detail, but one has also a general resignation in regard to life as a whole, and this confers peace and good fortune in relation to every individual matter.
 
 ## 53. Chien / Development (Gradual Progress)
+[Back to Index](#index)
 
 above SUN THE GENTLE, WIND, WOOD
+
 below KêN KEEPING STILL, MOUNTAIN
 
 This hexagram is made up of Sun (wood, penetration) above, i.e., without, and Kên (mountain, stillness) below, i.e., within. A tree on a mountain develops slowly according to the law of its being and consequently stands firmly rooted. This gives the idea of a development that proceeds gradually, step by step. The attributes of the trigrams also point to this: within is tranquillity, which guards against precipitate actions, and without is penetration, which makes development and progress possible.
@@ -4231,8 +4334,10 @@ Good fortune.
 Here life comes to its end. A man's work stands completed. The path rises high toward heaven, like the flight of wild geese when they have left the earth far behind. There they fly, keeping to the order of their flight in strict formation. And if their feathers fall, they can serve as ornaments in the sacred dance pantomimes performed in the temples. Thus the life of a man who has perfected himself is a bright light for the people of earth, who look up to him as an example.
 
 ## 54. Kuei Mei / The Marrying Maiden
+[Back to Index](#index)
 
 above CHêN THE AROUSING, THUNDER
+
 below TUI THE JOYOUS, LAKE
 
 Above we have Chên, the eldest son, and below, Tui, the youngest daughter. The man leads and the girl follows him in gladness. The picture is that of the entrance of the girl into her husband's house. In all, there are four hexagrams depicting the relationship between husband and wife. Hsien, INFLUENCE,
@@ -4324,8 +4429,10 @@ Nothing that acts to further.
 At the sacrifice to the ancestors, the woman had to present harvest offerings in a basket, while the man slaughtered the sacrificial animal with his own hand. Here the ritual is only superficially fulfilled; the woman takes an empty basket and the man stabs a sheep slaughtered beforehand-solely to preserve the forms. This impious, irreverent attitude bodes no good for a marriage.
 
 ## 55. Fêng / Abundance [Fullness]
+[Back to Index](#index)
 
 above CHêN THE AROUSING, THUNDER
+
 below LI THE CLINGING, FIRE
 
 Chên is movement; Li is flame, whose attribute is clarity. Clarity within, movement without-this produces greatness and abundance. The hexagram pictures a period of advanced civilization. However, the fact that development has reached a peak suggests that this extraordinary condition of abundance cannot be maintained permanently.
@@ -4415,8 +4522,10 @@ Misfortune.
 This describes a man who because of his arrogance and obstinacy attains the opposite of what he strives for. He seeks abundance and splendor for his dwelling. He wishes at all odds to be master in his house, which so alienates his family that in the end he finds himself completely isolated.
 
 ## 56. Lü / The Wanderer
+[Back to Index](#index)
 
 above LI THE CLINGING, FIRE
+
 below KêN KEEPING STILL, MOUNTAIN
 
 the mountain, Kên, stands still; above it fire, Li, flames up and does not tarry. Therefore the two trigrams do not stay together. Strange lands and separation are the wanderer's lot. When a man is a wanderer and stranger, he should not be gruff nor overbearing. He has no large circle of acquaintances, therefore he should not give himself airs. He must be cautious and reserved; in this way he protects himself from evil. If he is obliging toward others, he wins success. A wanderer has no fixed abode; his home is the road. Therefore he must take care to remain upright and steadfast, so that he sojourns only in the proper places, associating only with good people. Then he has good fortune and can go his way unmolested.
@@ -4487,8 +4596,10 @@ Misfortune.
 The picture of a bird whose nest burns up indicates loss of one's resting place. This misfortune may overtake the bird if it is heedless and imprudent when building its nest. It is the same with a wanderer. If he lets himself go, laughing and jesting, and forgets that he is a wanderer, he will later have cause to weep and lament. For if through carelessness a man loses his cow-i.e., his modesty and adaptability-evil will result.
 
 ## 57. Sun / The Gentle (The Penetrating, Wind)
+[Back to Index](#index)
 
 above SUN THE GENTLE, WIND, WOOD
+
 below SUN THE GENTLE, WIND, WOOD
 
 Sun is one of the eight doubled trigrams. It is the eldest daughter and symbolizes wind or wood; it has for its attribute gentleness, which nonetheless penetrates like the wind or like growing wood with its roots. The dark principle, in itself rigid and immovable, is dissolved by the penetrating light principle, to which it subordinates itself in gentleness. In nature, it is the wind that disperses the gathered clouds, leaving the sky clear and serene. In human life it is penetrating clarity of judgment that thwarts all dark hidden motives. In the life of the community it is the powerful influence of a great personality that uncovers and breaks up those intrigues which shun the light of day.
@@ -4571,8 +4682,10 @@ Perseverance brings misfortune.
 A man's understanding is sufficiently penetrating. He follows up injurious influences into the most secret corners. But he no longer has the strength to combat them decisively. In this case any attempt to penetrate into the personal domain of darkness would only bring harm.
 
 ## 58. Tui / The Joyous, Lake
+[Back to Index](#index)
 
 above TUI THE JOYOUS, LAKE
+
 below TUI THE JOYOUS, LAKE
 
 This hexagram, like sun, is one of the eight formed by doubling of a trigram. The trigram Tui denotes the youngest daughter; it is symbolized by the smiling lake, and its attribute is joyousness. Contrary to appearances, it is not the yielding quality of the top line that accounts for joy here. The attribute of the yielding or dark principle is not joy but melancholy. However, joy is indicated by the fact that there are two strong lines within, expressing themselves through the medium of gentleness. True joy, therefore, rests on firmness and strength within, manifesting itself outwardly as yielding and gentle.
@@ -4634,8 +4747,10 @@ Seductive joyousness.
 A vain nature invites diverting pleasures and must suffer accordingly (cf. the six in the third place). If a man is unstable within, the pleasures of the world that he does not shun have so powerful an influence that he is swept along by them. Here it is no longer a question of danger, of good fortune or misfortune. He has given up direction of his own life, and what becomes of him depends upon chance and external influences.
 
 ## 59. Huan / Dispersion [Dissolution]
+[Back to Index](#index)
 
 above SUN THE GENTLE, WIND
+
 below K'AN THE ABYSMAL, WATER
 
 Wind blowing over water disperses it, dissolving it into foam and mist. This suggests that when a man's vital energy is dammed up within him (indicated as a danger by the attribute of the lower trigram), gentleness serves to break up and dissolve the blockage.
@@ -4782,8 +4897,10 @@ Remorse disappears.
 If one is too severe in setting up restrictions, people will not endure them. The more consistent such severity, the worse it is, for in the long run a reaction is unavoidable. In the same way, the tormented body will rebel against excessive asceticism. On the other hand, although ruthless severity is not to be applied persistently and systematically, there may be times when it si the only means of safeguarding against guilt and remorse. In such situations ruthlessness toward oneself is the only means of saving one's soul, which otherwise would succumb to irresolution and temptation.
 
 ## 61. Chung Fu / Inner Truth
+[Back to Index](#index)
 
 above SUN THE GENTLE, WIND
+
 below TUI THE JOYOUS, LAKE
 
 The wind blows over the lake and stirs the surface of the water. Thus visible effects of the invisible manifest themselves. The hexagram consists of firm lines above and below, while it is open in the center. This indicates a heart free of prejudices and therefore open to truth. On the other hand, each of the two trigrams has a firm line in the middle; this indicates the force of inner truth in the influences they present. The attributes of the two trigrams are: above, gentleness, forbearance toward inferiors; below, joyousness in obeying superiors. Such conditions create the basis of a mutual confidence that makes achievements possible. The character of fu ("truth") is actually the picture of a bird's foot over a fledgling. It suggests the idea of brooding. An egg is hollow. The light-giving power must work to quicken it from outside, but there must be a germ of life within, if life is to be awakened. Far-reaching speculations can be linked with these ideas.
@@ -4861,8 +4978,10 @@ Perseverance brings misfortune.
 The cock is dependable. It crows at dawn. But it cannot itself fly to heaven. It just crows. A man may count on mere words to awaken faith. This may succeed now and then, but if persisted in, it will have bad consequences.
 
 ## 62. Hsiao Kuo / Preponderance of the Small
+[Back to Index](#index)
 
 above CHêN THE AROUSING, THUNDER
+
 below KêN KEEPING STILL, MOUNTAIN
 
 While in the hexagram Ta Kuo, PREPONDERANCE OF THE GREAT
@@ -4957,8 +5076,10 @@ This means bad luck and injury.
 If one overshoots the goal, one cannot hit it. If a bird will not come to its nest but flies higher and higher, it eventually falls into the hunter's net. He who in times of extraordinary salience of small things does not know how to call a halt, but restlessly seeks to press on and on, draws upon himself misfortune at the hands of gods and men, because he deviates from the order of nature.
 
 ## 63. Chi Chi / After Completion
+[Back to Index](#index)
 
 above K'AN THE ABYSMAL, WATER
+
 below LI THE CLINGING, FIRE
 
 This hexagram is the evolution of T'ai PEACE
@@ -5038,8 +5159,10 @@ He gets his head in the water. Danger.
 Here in conclusion another warning is added. After crossing a stream, a man's head can get into the water only if he is so imprudent as to turn back. As long as he goes forward and does not look back, he escapes this danger. But there is a fascination in standing still and looking back on a peril overcome. However, such vain self-admiration brings misfortune. It leads only to danger, and unless one finally resolves to go forward without pausing, one falls a victim to this danger.
 
 ## 64. Wei Chi / Before Completion
+[Back to Index](#index)
 
 above LI THE CLINGING, FLAME
+
 below K'AN THE ABYSMAL, WATER
 
 This hexagram indicates a time when the transition from disorder to order is not yet completed. The change is indeed prepared for, since all the lines in the upper trigram are in relation to those in the lower. However, they are not yet in their places. While the preceding hexagram offers an analogy to autumn, which forms the transition from summer to winter, this hexagram presents a parallel to spring, which leads out of winter's stagnation into the fruitful time of summer. With this hopeful outlook the Book of Changes come to its close.
