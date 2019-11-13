@@ -1,11 +1,16 @@
 # Overview
 
+## Data Sources
+- Full I Ching Text by Richard Wilhelm from http://www2.unipr.it/~deyoung/I_Ching_Wilhelm_Translation.html
+
+- Foreword by Carl Gustav Jung from https://www.iging.com/intro/foreword.htm
+
 ## About Richard Wilhelm 卫礼贤
 [https://schoolofwisdom.com/about/richard-wilhelm-one-of-the-school-of-wisdoms-most-notable-teachers/](https://schoolofwisdom.com/about/richard-wilhelm-one-of-the-school-of-wisdoms-most-notable-teachers/)
 
 ![wilhelm](./img/wilhelm.jpg)
 
-## My copy of the book
+## My Copy of the Book
 
 ![My Copy of the Book](./img/my-copy.jpg)
 
