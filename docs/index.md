@@ -61,50 +61,50 @@ Source: zhihu.com
 18. [Ku / Work on what has been spoiled [ Decay ] / 蛊](#18-ku--work-on-what-has-been-spoiled--decay-)
 19. [Lin / Approach / 临](#19-lin--approach)
 20. [Kuan/ Contemplation (View) / 观](#20-kuan--contemplation-view)
-21. Shih Ho / Biting Through / 噬嗑
-22. Pi / Grace / 贲
-23. Po / Splitting Apart / 剥
-24. Fu / Return (The Turning Point) / 复
-25. Wu Wang / Innocence (The Unexpected) / 无妄
-26. Ta Ch'u / The Taming Power of the Great / 大畜
-27. I / Comers of the Mouth (Providing Nourishment) / 颐
-28. Ta Kuo / Preponderance of the Great / 大过
-29. K'an / The Abysmal (Water) / 坎
-30. Li / The Clinging, Fire / 离
-31. Hsien / Influence (Wooing) / 咸
-32. Heng / Duration / 恒
-33. TUN / Retreat / 遁
-34. Ta Chuang / The Power of the Great / 大壮
-35. Chin / Progress / 晋
-36. Ming I / Darkening of the light / 明夷
-37. Chia Jen / The Family [The Clan] / 家人
-38. K'uei / Opposition / 睽
-39. Chien / Obstruction / 蹇
-40. Hsieh / Deliverance / 解
-41. Sun / Decrease / 损
-42. I / Increase / 益
-43. Kuai / Break-through (Resoluteness) / 夬
-44. Kou / Coming to Meet / 姤
-45. Ts'ui / Gathering Together [Massing] / 萃
-46. Sheng / Pushing Upward / 升
-47. K'un / Oppression (Exhaustion) / 困
-48. Ching / The Well / 井
-49. Ko / Revolution (Molting) / 革
-50. Ting / The Caldron / 鼎
-51. Chen / The Arousing (Shock, Thunder) / 震
-52. Ken / Keeping Still, Mountain / 艮
-53. Chien / Development (Gradual Progress) / 渐
-54. Kuei Mei / The Marrying Maiden / 归妹
-55. Feng / Abundance [Fullness] / 丰收
-56. Lii / The Wanderer / 旅
-57. Sun / The Gentle (The Penetrating, Wind) / 巽
-58. Tui / The Joyous, Lake / 兑
-59. Huan / Dispersion [Dissolution] / 涣
-60. Chieh / Limitation / 节
-61. Chung Fu / Inner Truth / 中孚
-62. Hsiao Kuo / Preponderance of the Small / 小过
-63. Chi Chi / After Completion / 既济
-64. Wei Chi / Before Completion / 未济
+21. [Shih Ho / Biting Through / 噬嗑](#21-shih-ho--biting-through)
+22. [Pi / Grace / 贲](#22-pi--grace)
+23. [Po / Splitting Apart / 剥](#23-po--splitting-apart)
+24. [Fu / Return (The Turning Point) / 复](#24-fu--return-the-turning-point)
+25. [Wu Wang / Innocence (The Unexpected) / 无妄](#25-wu-wang--innocence-the-unexpected)
+26. [Ta Ch'u / The Taming Power of the Great / 大畜](#26-ta-chu--the-taming-power-of-the-great)
+27. [I / Comers of the Mouth (Providing Nourishment) / 颐](#27-i--corners-of-the-mouth-providing-nourishment)
+28. [Ta Kuo / Preponderance of the Great / 大过](#28-ta-kuo--preponderance-of-the-great)
+29. [K'an / The Abysmal (Water) / 坎](#29-kan--the-abysmal-water)
+30. [Li / The Clinging, Fire / 离](#30-li--the-clinging-fire)
+31. [Hsien / Influence (Wooing) / 咸](#31-hsien--influence-wooing)
+32. [Heng / Duration / 恒](#32-hêng--duration)
+33. [TUN / Retreat / 遁](#33-tun--retreat)
+34. [Ta Chuang / The Power of the Great / 大壮](#34-ta-chuang--the-power-of-the-great)
+35. [Chin / Progress / 晋](#35-chin--progress)
+36. [Ming I / Darkening of the light / 明夷](#36-ming-i--darkening-of-the-light)
+37. [Chia Jen / The Family [The Clan] / 家人](#37-chia-jên--the-family-the-clan)
+38. [K'uei / Opposition / 睽](#38-kuei--opposition)
+39. [Chien / Obstruction / 蹇](#39-chien--obstruction)
+40. [Hsieh / Deliverance / 解](#40-hsieh--deliverance)
+41. [Sun / Decrease / 损](#41-sun--decrease)
+42. [I / Increase / 益](#42-i--increase)
+43. [Kuai / Break-through (Resoluteness) / 夬](#43-kuai--break-through-resoluteness)
+44. [Kou / Coming to Meet / 姤](#44-kou--coming-to-meet)
+45. [Ts'ui / Gathering Together [Massing] / 萃](#45-tsui--gathering-together-massing)
+46. [Sheng / Pushing Upward / 升](#46-shêng--pushing-upward)
+47. [K'un / Oppression (Exhaustion) / 困](#47-kun--oppression-exhaustion)
+48. [Ching / The Well / 井](#48-ching--the-well)
+49. [Ko / Revolution (Molting) / 革](#49-ko--revolution-molting)
+50. [Ting / The Caldron / 鼎](#50-ting--the-caldron)
+51. [Chen / The Arousing (Shock, Thunder) / 震](#51-chên--the-arousing-shock-thunder)
+52. [Ken / Keeping Still, Mountain / 艮](#52-kên--keeping-still-mountain)
+53. [Chien / Development (Gradual Progress) / 渐](#53-chien--development-gradual-progress)
+54. [Kuei Mei / The Marrying Maiden / 归妹](#54-kuei-mei--the-marrying-maiden)
+55. [Feng / Abundance [Fullness] / 丰收](#55-fêng--abundance-fullness)
+56. [Lii / The Wanderer / 旅](#56-lü--the-wanderer)
+57. [Sun / The Gentle (The Penetrating, Wind) / 巽](#57-sun--the-gentle-the-penetrating-wind)
+58. [Tui / The Joyous, Lake / 兑](#58-tui--the-joyous-lake)
+59. [Huan / Dispersion [Dissolution] / 涣](#59-huan--dispersion-dissolution)
+60. [Chieh / Limitation / 节](#60-chieh--limitation)
+61. [Chung Fu / Inner Truth / 中孚](#61-chung-fu--inner-truth)
+62. [Hsiao Kuo / Preponderance of the Small / 小过](#62-hsiao-kuo--preponderance-of-the-small)
+63. [Chi Chi / After Completion / 既济](#63-chi-chi--after-completion)
+64. [Wei Chi / Before Completion / 未济](#64-wei-chi--before-completion)
 
 ## 1. Ch'ien / The Creative
 
