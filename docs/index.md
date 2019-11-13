@@ -11,7 +11,7 @@
 
 ## Foreword by Carl Gustav Jung 荣格
 
-[Link to Forward](./iching-foreword.html)
+[Link to the Forward](./iching-foreword.html)
 
 ## Trigrams
 
@@ -46,21 +46,21 @@ Source: zhihu.com
 3. [Chun / Difficulty at the Beginning / 屯](#3-chun--difficulty-at-the-beginning)
 4. [Meng / Youthful Folly / 蒙](#4-mêng--youthful-folly)
 5. [Hsii / Waiting (Nourishment) / 需](#5-hsü--waiting-nourishment)
-6. Sung / Conflict / 讼
-7. Shih / The Army / 师
-8. Pi / Holding Together [union] / 比
-9. Hsiao Ch'u / The Taming Power of the Small / 小畜
-10. Lit / Treading [conduct] / 履
-11. T'ai / Peace / 泰
-12. P'i / Standstill [Stagnation] / 否
-13. T'ung Jen / Fellowship with Men / 同人
-14. Ta Yu / Possession in Great Measure / 大有
-15. Ch'ien / Modesty / 谦
-16. Yii / Enthusiasm / 豫
-17. Sui / Following / 随
-18. Ku / Work on what has been spoiled [ Decay ] / 蛊
-19. Lin / Approach / 临
-20. Kuan/ Contemplation (View) / 观
+6. [Sung / Conflict / 讼](#6-sung--conflict)
+7. [Shih / The Army / 师](#7-shih--the-army)
+8. [Pi / Holding Together [union] / 比](#8-pi--holding-together-union)
+9. [Hsiao Ch'u / The Taming Power of the Small / 小畜](#9-hsiao-chu--the-taming-power-of-the-small)
+10. [Lit / Treading [conduct] / 履](#10-lü--treading-conduct)
+11. [T'ai / Peace / 泰](#11-tai--peace)
+12. [P'i / Standstill [Stagnation] / 否](#12-pi--standstill-stagnation)
+13. [T'ung Jen / Fellowship with Men / 同人](#13-tung-jên--fellowship-with-men)
+14. [Ta Yu / Possession in Great Measure / 大有](#14-ta-yu--possession-in-great-measure)
+15. [Ch'ien / Modesty / 谦](#15-chien--modesty)
+16. [Yii / Enthusiasm / 豫](#16-yü--enthusiasm)
+17. [Sui / Following / 随](#17-sui--following)
+18. [Ku / Work on what has been spoiled [ Decay ] / 蛊](#18-ku--work-on-what-has-been-spoiled--decay-)
+19. [Lin / Approach / 临](#19-lin--approach)
+20. [Kuan/ Contemplation (View) / 观](#20-kuan--contemplation-view)
 21. Shih Ho / Biting Through / 噬嗑
 22. Pi / Grace / 贲
 23. Po / Splitting Apart / 剥
