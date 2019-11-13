@@ -31,10 +31,10 @@ Source: inthefamilyway.org
 
 Source: baidu.com
 
-## How To Consult The I Ching Oracle
+## How To Consult the I Ching Oracle
 [https://www.youtube.com/watch?v=KgXaIYpAEHQ](https://www.youtube.com/watch?v=KgXaIYpAEHQ)
 
-# 64 Hexagram Details
+# 64 Hexagrams
 
 ![Chinese English](./img/en-ch-1.jpg)
 ![Chinese English](./img/en-ch-2.jpg)

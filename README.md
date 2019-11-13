@@ -2,7 +2,7 @@
 
 https://harrywang.github.io/iching/
 
-I added pictures on trigrams, sequence chart, Chinese pinyin pronunciation, and Chinese-English translations from different sources. I also manually added the Chinese characters and formatted the main text using Markdown.
+I added pictures on trigrams, sequence chart, Chinese pinyin pronunciation, and Chinese-English translations from different sources. I also manually added the Chinese characters for the hexagrams and the index and formatted the main text using Markdown.
 
 TODO: parse the text into sections and generate files in different formats, e.g., csv, json, excel, etc.
 
